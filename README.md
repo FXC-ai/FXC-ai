@@ -1,10 +1,11 @@
-<h3 align="center">Développeur junior</h3>
 
-En construction...
+Redme en construction...
 
 - 📫 How to reach me **fx.coindreau@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+A venir...
+
 <p align="left">
 </p>
 
