@@ -1,5 +1,5 @@
 
-Redme en construction...
+Readme en construction...
 
 - 📫 How to reach me **fx.coindreau@gmail.com**
 
