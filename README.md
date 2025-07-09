@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour, je m'appelle François-Xavier</h1>
 <h3 align="center">Développeur</h3>
-
+<h3 align="center">Ce readme est en cours de conception</h3>
 
 ## Projets pros :
 
