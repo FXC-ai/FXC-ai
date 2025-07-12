@@ -6,7 +6,8 @@
 
 |       |      |      |
 |---    |:--   |---   |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> | Projet de cryptographie en rust |https://github.com/FXC-ai/digital_signature |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> | Cryptographie en rust |https://github.com/FXC-ai/digital_signature |
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>|Requêtes SQL dynamiques|https://github.com/FXC-ai/sql_query_engine|
 
 
 ## Projets de formation (Ecole 42 de Lausanne) :
