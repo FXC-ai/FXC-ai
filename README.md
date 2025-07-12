@@ -1,54 +1,23 @@
-<h1 align="center">Bonjour, je m'appelle François-Xavier</h1>
-<h3 align="center">Développeur</h3>
-<h3 align="center">Ce readme est en cours de conception</h3>
+<h1 align="center">👋 Bonjour, je m'appelle François-Xavier</h1> <h3 align="center">💻 Développeur</h3> <h4 align="center">⚙️ Ce README est en cours de conception</h4>
+## Projets pros
 
-## Projets pros :
+<table> <tr> <th>Tech</th> <th>Description</th> <th>Lien</th> </tr> <tr> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/></td> <td>Cryptographie en rust</td> <td><a href="https://github.com/FXC-ai/digital_signature">digital_signature</a></td> </tr> <tr> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/></td> <td>Requêtes SQL dynamiques</td> <td><a href="https://github.com/FXC-ai/sql_query_engine">sql_query_engine</a></td> </tr> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="30"/> </td> <td>Librarie de graphiques d3.js</td> <td><a href="https://github.com/FXC-ai/microfrontend_js_lib">microfrontend_js_lib</a></td> </tr> </table>
 
-|       |      |      |
-|---    |:--   |---   |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> | Cryptographie en rust |https://github.com/FXC-ai/digital_signature |
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>|Requêtes SQL dynamiques|https://github.com/FXC-ai/sql_query_engine|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>|Librarie de graphiques d3.js prêt à l'emploi|https://github.com/FXC-ai/microfrontend_js_lib|
+## Projets École 42
 
+<table> <tr> <th>Tech</th> <th>Description</th> <th>Lien</th> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td> <td>Piscine 42 : bootcamp pour l'entrée à l'école 42</td> <td><a href="https://github.com/FXC-ai/piscine42_sept2022">piscine42_sept2022</a></td> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td> <td>Version simplifiée du jeu doom</td> <td><a href="https://github.com/FXC-ai/Cube3D">Cube3D</a></td> </tr> </table>
 
-## Projets de formation (Ecole 42 de Lausanne) :
+## Projets personnels
 
-|       |      |      |
-|---    |:--   |---   |
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>|Piscine : bootcamp pour l'entrée à l'école 42 |https://github.com/FXC-ai/piscine42_sept2022|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>| Projet explorant la technique de **ray tracing**. Le résultat est une version simplifiée du jeu doom. | https://github.com/FXC-ai/Cube3D |
+<table> <tr> <th>Tech</th> <th>Description</th> <th>Lien</th> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></td> <td>Projet de <strong>civic tech</strong></td> <td><a href="https://github.com/FXC-ai/jeu-vote.fr">jeu-vote.fr</a></td> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td> <td>Proposition de résolution du problème du <strong>collectionneur de ticket</strong></td> <td><a href="https://github.com/FXC-ai/collectionneur_de_ticket">collectionneur_de_ticket</a></td> </tr> </table>
+📫 Me contacter
 
-## Projets personnels :
+fx.coindreau@gmail.com
 
-|       |      |      |
-|---    |:--   |---   |
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> |Projet de **civic tech** | https://github.com/FXC-ai/jeu-vote.fr|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>|Proposition de résolution du problème du **collectionneur de ticket**|https://github.com/FXC-ai/collectionneur_de_ticket|
+🌐 Connect with me
 
+(à compléter si souhaité)
 
+🛠️ Languages and Tools
 
-
-- 📫 Me contacter **fx.coindreau@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> </p>
