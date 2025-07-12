@@ -2,7 +2,17 @@
 
 ## Projets pros
 
-<table> <tr> <th>Tech</th> <th>Description</th> <th>Lien</th> </tr> <tr> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/></td> <td>Cryptographie en rust</td> <td><a href="https://github.com/FXC-ai/digital_signature">digital_signature</a></td> </tr> <tr> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></td> <td>Requêtes SQL dynamiques</td> <td><a href="https://github.com/FXC-ai/sql_query_engine">sql_query_engine</a></td> </tr> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="30"/> </td> <td>Librarie de graphiques d3.js</td> <td><a href="https://github.com/FXC-ai/microfrontend_js_lib">microfrontend_js_lib</a></td> </tr> </table>
+<table>
+  <tr> <th>Tech</th> <th>Description</th> <th>Lien</th> </tr> 
+  <tr> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/></td> <td>Cryptographie en rust</td> <td><a href="https://github.com/FXC-ai/digital_signature">digital_signature</a></td> </tr>
+  <tr> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></td> <td>Requêtes SQL dynamiques</td> <td><a href="https://github.com/FXC-ai/sql_query_engine">sql_query_engine</a></td> </tr>
+  
+  <tr> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/></td> <td>Backend pour la librairie de graphiques d3.js</td> <td><a href="">A venir...</a></td> </tr>  
+
+  <tr> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/></td> <td>Architecture de gestion de plugins pola.rs</td> <td><a href="">A venir...</a></td> </tr>
+
+  <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="30"/> </td> <td>Librarie de graphiques d3.js</td> <td><a href="https://github.com/FXC-ai/microfrontend_js_lib">microfrontend_js_lib</a></td> </tr>
+</table>
 
 ## Projets École 42
 
