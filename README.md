@@ -14,6 +14,7 @@
 
 |       |      |      |
 |---    |:--   |---   |
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>|Piscine : bootcamp pour l'entrée à l'école 42 |https://github.com/FXC-ai/piscine42_sept2022|
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>| Projet explorant la technique de **ray tracing**. Le résultat est une version simplifiée du jeu doom. | https://github.com/FXC-ai/Cube3D |
 
 ## Projets personnels :
