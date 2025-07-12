@@ -24,8 +24,10 @@
   <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td><td>Fractol : visualisation fractale</td><td><a href="https://github.com/FXC-ai/fractol">Fractol</a></td></tr>
   <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td><td>Webserv : mini‑serveur HTTP</td><td><a href="https://github.com/FXC-ai/webserv">Webserv</a></td></tr>
   <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/></td><td>Born to be Root : introduction à l’administration système (virtualisation, sécurité)</td><td><a href="https://github.com/FXC-ai/Born2beRoot">Born2beRoot</a></td></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/></td><td>Inception, projet devops avec mariaDb, wordpress et nginx</td><td><a href="https://github.com/FXC-ai/inception">Inception</a></td></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td><td>Inception : projet C web / serveur (42 cursus)</td><td><a href="https://github.com/FXC-ai/inception">Inception</a></td></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td><td>ft_linear_regression : implémentation d’une régression linéaire en Python</td><td><a href="https://github.com/FXC-ai/ft_linear_regression">ft_linear_regression</a></td></tr>
 </table>
+
 
 
 ## Projets personnels
