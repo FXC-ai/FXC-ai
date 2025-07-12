@@ -9,7 +9,7 @@
   
   <tr> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/></td> <td>Backend pour la librairie de graphiques d3.js</td> <td><a href="">A venir...</a></td> </tr>  
 
-  <tr> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/></td> <td>Architecture de gestion de plugins pola.rs</td> <td><a href="">A venir...</a></td> </tr>
+  <tr> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2tLN_XyrGc4oW_Kn-VPBbwQiCVdhiD2tsQ&s" alt="polars" width="120" height="40"/></td> <td>Architecture de gestion de plugins pola.rs</td> <td><a href="">A venir...</a></td> </tr>
 
   <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="30"/> </td> <td>Librarie de graphiques d3.js</td> <td><a href="https://github.com/FXC-ai/microfrontend_js_lib">microfrontend_js_lib</a></td> </tr>
 </table>
