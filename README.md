@@ -24,18 +24,28 @@
   <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td><td>Fractol : visualisation fractale</td><td><a href="https://github.com/FXC-ai/fractol">Fractol</a></td></tr>
   <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td><td>Webserv : mini‑serveur HTTP</td><td><a href="https://github.com/FXC-ai/webserv">Webserv</a></td></tr>
   <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/></td><td>Born to be Root : introduction à l’administration système (virtualisation, sécurité)</td><td><a href="https://github.com/FXC-ai/Born2beRoot">Born2beRoot</a></td></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td><td>Inception : projet C web / serveur (42 cursus)</td><td><a href="https://github.com/FXC-ai/inception">Inception</a></td></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></td><td>Inception : projet C web / serveur (42 cursus)</td><td><a href="https://github.com/FXC-ai/inception">Inception</a></td></tr>
   <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td><td>ft_linear_regression : implémentation d’une régression linéaire en Python</td><td><a href="https://github.com/FXC-ai/ft_linear_regression">ft_linear_regression</a></td></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/></td><td>ft_transcendance : projet web full-stack (Django, Python, JS, Bootstrap)</td><td><a href="https://github.com/FXC-ai/ft_transcendance">ft_transcendance</a></td></tr>
 </table>
+
 
 
 
 ## Projets personnels
 
-<table> 
-  <tr> <th>Tech</th> <th>Description</th> <th>Lien</th> </tr> 
-  <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></td> <td>Projet de <strong>civic tech</strong></td> <td><a href="https://github.com/FXC-ai/jeu-vote.fr">jeu-vote.fr</a></td> </tr> 
-  <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"> </td> <td>Proposition de résolution du problème du <strong>collectionneur de ticket</strong></td> <td><a href="https://github.com/FXC-ai/collectionneur_de_ticket">collectionneur_de_ticket</a></td> </tr> </table>
+<table>
+  <tr><th>Tech</th><th>Description</th><th>Lien</th></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </td><td>Projet de civic tech : <a href="www.jeu-vote.fr">jeu-vote.fr</a></td><td><a href="https://github.com/FXC-ai/jeu-vote.fr">jeu-vote.fr</a></td></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"/>        </td><td>Proposition de résolution du problème du collectionneur de ticket</td><td><a href="https://github.com/FXC-ai/collectionneur_de_ticket">collectionneur_de_ticket</a></td></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></td><td>Projet de civic tech à l'occasion des élections présidentielles françaises 2022</td><td><a href="https://github.com/FXC-ai/jeu-vote-2022">jeu-vote-2022</a></td></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></td><td>Projet de scrappingde données</td><td><a href="https://github.com/FXC-ai/EDT_Scrapper">EDT_Scrapper</a></td></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/>    
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </td><td>Experimentations Python : divers scripts et POC pour apprendre</td><td><a href="https://github.com/FXC-ai/experimentations_python">experimentations_python</a></td></tr>
+</table>
+
 📫 Me contacter
 
 fx.coindreau@gmail.com
