@@ -1,67 +1,164 @@
-<h1 align="center">👋 Bonjour, je m'appelle François-Xavier</h1> <h3 align="center">💻 Développeur</h3> <h4 align="center">⚙️ Ce README est en cours de conception</h4>
+<h1 align="center">👋 Bonjour, je m'appelle François-Xavier</h1> 
+<h3 align="center">💻 Développeur</h3> 
 
-## Projets pros
+---
 
-<table>
-  <tr> <th>Tech</th> <th>Description</th> <th>Lien</th> </tr> 
-  <tr> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/></td> <td>Cryptographie en rust</td> <td><a href="https://github.com/FXC-ai/digital_signature">digital_signature</a></td> </tr>
-  <tr> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></td> <td>Requêtes SQL dynamiques</td> <td><a href="https://github.com/FXC-ai/sql_query_engine">sql_query_engine</a></td> </tr>
-  
-  <tr> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/></td> <td>Backend pour la librairie de graphiques d3.js</td> <td><a href="">A venir...</a></td> </tr>  
-
-  <tr> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2tLN_XyrGc4oW_Kn-VPBbwQiCVdhiD2tsQ&s" alt="polars" width="120" height="40"/></td> <td>Architecture de gestion de plugins pola.rs</td> <td><a href="">A venir...</a></td> </tr>
-
-  <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="30"/> </td> <td>Librarie de graphiques d3.js</td> <td><a href="https://github.com/FXC-ai/microfrontend_js_lib">microfrontend_js_lib</a></td> </tr>
-</table>
-
-## Projets École 42
-
-<table>
-  
-  <tr><th>Tech</th><th>Description</th><th>Lien</th></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td><td>ft_linear_regression : implémentation d’une régression linéaire en Python</td><td><a href="https://github.com/FXC-ai/ft_linear_regression">ft_linear_regression</a></td></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/></td><td>ft_transcendance : dernier projet du tronc commun. Projet web full-stack</td><td><a href="https://github.com/FXC-ai/ft_transcendance">ft_transcendance</a></td></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td><td>Webserv : mini‑serveur HTTP</td><td><a href="https://github.com/FXC-ai/webserv">Webserv</a></td></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></td><td>Inception : projet C web / serveur (42 cursus)</td><td><a href="https://github.com/FXC-ai/inception">Inception</a></td></tr>
-
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td><td>Version simplifiée du jeu Doom</td><td><a href="https://github.com/FXC-ai/Cube3D">Cube3D</a></td></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td><td>Shell unix minimal</td><td><a href="https://github.com/FXC-ai/Minishell">Minishell</a></td></tr>
-
-
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/></td><td>Born to be Root : introduction à l’administration système (virtualisation, sécurité)</td><td><a href="https://github.com/FXC-ai/Born2beRoot">Born2beRoot</a></td></tr>
-
-  
-    <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td><td>Piscine 42 : bootcamp d’entrée</td><td><a href="https://github.com/FXC-ai/piscine42_sept2022">piscine42_sept2022</a></td></tr>
-
-    <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td><td>Piscine 42 : bootcamp d’entrée</td><td><a href="https://github.com/FXC-ai/piscine42_sept2022">piscine42_sept2022</a></td></tr>
-</table>
-
-
-
-
-## Projets personnels
+## 🚀 Projets professionnels
 
 <table>
   <tr><th>Tech</th><th>Description</th><th>Lien</th></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </td><td>Projet de civic tech : <a href="www.jeu-vote.fr">jeu-vote.fr</a></td><td><a href="https://github.com/FXC-ai/jeu-vote.fr">jeu-vote.fr</a></td></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"/>        </td><td>Proposition de résolution du problème du collectionneur de ticket</td><td><a href="https://github.com/FXC-ai/collectionneur_de_ticket">collectionneur_de_ticket</a></td></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></td><td>Projet de civic tech à l'occasion des élections présidentielles françaises 2022</td><td><a href="https://github.com/FXC-ai/jeu-vote-2022">jeu-vote-2022</a></td></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></td><td>Projet de scrappingde données</td><td><a href="https://github.com/FXC-ai/EDT_Scrapper">EDT_Scrapper</a></td></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/>    
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="scikit_learn"  height="40"/>
-  </td><td>Experimentations Python : divers scripts et POC pour apprendre</td><td><a href="https://github.com/FXC-ai/experimentations_python">experimentations_python</a></td></tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40"/>
+    </td>
+    <td>Cryptographie en Rust</td>
+    <td><a href="https://github.com/FXC-ai/digital_signature">digital_signature</a></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+    </td>
+    <td>Requêtes SQL dynamiques</td>
+    <td><a href="https://github.com/FXC-ai/sql_query_engine">sql_query_engine</a></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40"/>
+    </td>
+    <td>Backend pour la librairie de graphiques D3.js</td>
+    <td><i>À venir...</i></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2tLN_XyrGc4oW_Kn-VPBbwQiCVdhiD2tsQ&s" width="120"/>
+    </td>
+    <td>Architecture de gestion de plugins pola.rs</td>
+    <td><i>À venir...</i></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="30"/>
+    </td>
+    <td>Librairie de graphiques D3.js</td>
+    <td><a href="https://github.com/FXC-ai/microfrontend_js_lib">microfrontend_js_lib</a></td>
+  </tr>
 </table>
 
-📫 Me contacter
+---
 
-fx.coindreau@gmail.com
+## 🎓 Projets École 42
 
-🌐 Connect with me
+<table>
+  <tr><th>Tech</th><th>Description</th><th>Lien</th></tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+    <td>ft_linear_regression : implémentation d’une régression linéaire en Python</td>
+    <td><a href="https://github.com/FXC-ai/ft_linear_regression">ft_linear_regression</a></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+    </td>
+    <td>ft_transcendance : projet web full-stack (dernier projet du tronc commun)</td>
+    <td><a href="https://github.com/FXC-ai/ft_transcendance">ft_transcendance</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
+    <td>Webserv : mini‑serveur HTTP</td>
+    <td><a href="https://github.com/FXC-ai/webserv">Webserv</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></td>
+    <td>Inception : projet DevOps pour apprendre Docker</td>
+    <td><a href="https://github.com/FXC-ai/inception">Inception</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
+    <td>Minishell : shell Unix minimal</td>
+    <td><a href="https://github.com/FXC-ai/Minishell">Minishell</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/></td>
+    <td>Born to be Root : introduction à l’administration système (virtualisation, sécurité)</td>
+    <td><a href="https://github.com/FXC-ai/Born2beRoot">Born2beRoot</a></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+    </td>
+    <td>Piscine 42 : bootcamp d’entrée</td>
+    <td><a href="https://github.com/FXC-ai/piscine42_sept2022">piscine42_sept2022</a></td>
+  </tr>
+</table>
 
-(à compléter si souhaité)
+---
 
-🛠️ Languages and Tools
+## 🛠️ Projets personnels
 
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> </p>
+<table>
+  <tr><th>Tech</th><th>Description</th><th>Lien</th></tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+    </td>
+    <td>Projet de civic tech : <a href="https://www.jeu-vote.fr">jeu-vote.fr</a></td>
+    <td><a href="https://github.com/FXC-ai/jeu-vote.fr">jeu-vote.fr</a></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="40"/>
+    </td>
+    <td>Site WordPress : <a href="https://www.polatouche.org">polatouche.org</a></td>
+    <td><a href="https://www.polatouche.org">polatouche</a></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"/>
+    </td>
+    <td>Proposition de résolution du problème du collectionneur de ticket</td>
+    <td><a href="https://github.com/FXC-ai/collectionneur_de_ticket">collectionneur_de_ticket</a></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+    </td>
+    <td>Projet de civic tech à l'occasion des élections présidentielles françaises 2022</td>
+    <td><a href="https://github.com/FXC-ai/jeu-vote-2022">jeu-vote-2022</a></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40"/>
+    </td>
+    <td>Projet de scraping de données</td>
+    <td><a href="https://github.com/FXC-ai/EDT_Scrapper">EDT_Scrapper</a></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40"/>
+    </td>
+    <td>Expérimentations Python : scripts et POC pour apprendre</td>
+    <td><a href="https://github.com/FXC-ai/experimentations_python">experimentations_python</a></td>
+  </tr>
+</table>
+
+---
+
+📫 **Contact :** [fx.coindreau@gmail.com](mailto:fx.coindreau@gmail.com)
