@@ -32,7 +32,10 @@
 
 ## Projets personnels
 
-<table> <tr> <th>Tech</th> <th>Description</th> <th>Lien</th> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></td> <td>Projet de <strong>civic tech</strong></td> <td><a href="https://github.com/FXC-ai/jeu-vote.fr">jeu-vote.fr</a></td> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td> <td>Proposition de résolution du problème du <strong>collectionneur de ticket</strong></td> <td><a href="https://github.com/FXC-ai/collectionneur_de_ticket">collectionneur_de_ticket</a></td> </tr> </table>
+<table> 
+  <tr> <th>Tech</th> <th>Description</th> <th>Lien</th> </tr> 
+  <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></td> <td>Projet de <strong>civic tech</strong></td> <td><a href="https://github.com/FXC-ai/jeu-vote.fr">jeu-vote.fr</a></td> </tr> 
+  <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"> </td> <td>Proposition de résolution du problème du <strong>collectionneur de ticket</strong></td> <td><a href="https://github.com/FXC-ai/collectionneur_de_ticket">collectionneur_de_ticket</a></td> </tr> </table>
 📫 Me contacter
 
 fx.coindreau@gmail.com
