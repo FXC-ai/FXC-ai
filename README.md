@@ -16,7 +16,17 @@
 
 ## Projets École 42
 
-<table> <tr> <th>Tech</th><th>Description</th><th>Lien</th> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td> <td>Piscine 42 : bootcamp d’entrée</td> <td><a href="https://github.com/FXC-ai/piscine42_sept2022">piscine42_sept2022</a></td> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td> <td>Version simplifiée de Doom</td> <td><a href="https://github.com/FXC-ai/Cube3D">Cube3D</a></td> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td> <td>Minishell : shell Unix minimal</td> <td><a href="https://github.com/FXC-ai/Minishell">Minishell</a></td> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td> <td>Fractol : visualisation fractale</td> <td><a href="https://github.com/FXC-ai/fractol">Fractol</a></td> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td> <td>Webserv : mini‑serveur HTTP</td> <td><a href="https://github.com/FXC-ai/webserv">Webserv</a></td> </tr> </table>
+<table>
+  <tr><th>Tech</th><th>Description</th><th>Lien</th></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td><td>Piscine 42 : bootcamp d’entrée</td><td><a href="https://github.com/FXC-ai/piscine42_sept2022">piscine42_sept2022</a></td></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td><td>Version simplifiée de Doom</td><td><a href="https://github.com/FXC-ai/Cube3D">Cube3D</a></td></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td><td>Minishell : shell Unix minimal</td><td><a href="https://github.com/FXC-ai/Minishell">Minishell</a></td></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td><td>Fractol : visualisation fractale</td><td><a href="https://github.com/FXC-ai/fractol">Fractol</a></td></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td><td>Webserv : mini‑serveur HTTP</td><td><a href="https://github.com/FXC-ai/webserv">Webserv</a></td></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/></td><td>Born to be Root : introduction à l’administration système (virtualisation, sécurité)</td><td><a href="https://github.com/FXC-ai/Born2beRoot">Born2beRoot</a></td></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/></td><td>Inception, projet devops avec mariaDb, wordpress et nginx</td><td><a href="https://github.com/FXC-ai/inception">Inception</a></td></tr>
+</table>
+
 
 ## Projets personnels
 
