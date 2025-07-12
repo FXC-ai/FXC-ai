@@ -8,6 +8,7 @@
 |---    |:--   |---   |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> | Cryptographie en rust |https://github.com/FXC-ai/digital_signature |
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>|Requêtes SQL dynamiques|https://github.com/FXC-ai/sql_query_engine|
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>|Librarie de graphiques d3.js prêt à l'emploi|https://github.com/FXC-ai/microfrontend_js_lib|
 
 
 ## Projets de formation (Ecole 42 de Lausanne) :
