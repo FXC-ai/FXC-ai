@@ -17,16 +17,23 @@
 ## Projets École 42
 
 <table>
+  
   <tr><th>Tech</th><th>Description</th><th>Lien</th></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td><td>Piscine 42 : bootcamp d’entrée</td><td><a href="https://github.com/FXC-ai/piscine42_sept2022">piscine42_sept2022</a></td></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td><td>Version simplifiée de Doom</td><td><a href="https://github.com/FXC-ai/Cube3D">Cube3D</a></td></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td><td>Minishell : shell Unix minimal</td><td><a href="https://github.com/FXC-ai/Minishell">Minishell</a></td></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td><td>Fractol : visualisation fractale</td><td><a href="https://github.com/FXC-ai/fractol">Fractol</a></td></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td><td>Webserv : mini‑serveur HTTP</td><td><a href="https://github.com/FXC-ai/webserv">Webserv</a></td></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/></td><td>Born to be Root : introduction à l’administration système (virtualisation, sécurité)</td><td><a href="https://github.com/FXC-ai/Born2beRoot">Born2beRoot</a></td></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></td><td>Inception : projet C web / serveur (42 cursus)</td><td><a href="https://github.com/FXC-ai/inception">Inception</a></td></tr>
   <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td><td>ft_linear_regression : implémentation d’une régression linéaire en Python</td><td><a href="https://github.com/FXC-ai/ft_linear_regression">ft_linear_regression</a></td></tr>
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/></td><td>ft_transcendance : projet web full-stack (Django, Python, JS, Bootstrap)</td><td><a href="https://github.com/FXC-ai/ft_transcendance">ft_transcendance</a></td></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/></td><td>ft_transcendance : dernier projet du tronc commun. Projet web full-stack</td><td><a href="https://github.com/FXC-ai/ft_transcendance">ft_transcendance</a></td></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td><td>Webserv : mini‑serveur HTTP</td><td><a href="https://github.com/FXC-ai/webserv">Webserv</a></td></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></td><td>Inception : projet C web / serveur (42 cursus)</td><td><a href="https://github.com/FXC-ai/inception">Inception</a></td></tr>
+
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td><td>Version simplifiée du jeu Doom</td><td><a href="https://github.com/FXC-ai/Cube3D">Cube3D</a></td></tr>
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td><td>Shell unix minimal</td><td><a href="https://github.com/FXC-ai/Minishell">Minishell</a></td></tr>
+
+
+  <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/></td><td>Born to be Root : introduction à l’administration système (virtualisation, sécurité)</td><td><a href="https://github.com/FXC-ai/Born2beRoot">Born2beRoot</a></td></tr>
+
+  
+    <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td><td>Piscine 42 : bootcamp d’entrée</td><td><a href="https://github.com/FXC-ai/piscine42_sept2022">piscine42_sept2022</a></td></tr>
+
+    <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td><td>Piscine 42 : bootcamp d’entrée</td><td><a href="https://github.com/FXC-ai/piscine42_sept2022">piscine42_sept2022</a></td></tr>
 </table>
 
 
@@ -43,6 +50,7 @@
   <tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/>    
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="scikit_learn"  height="40"/>
   </td><td>Experimentations Python : divers scripts et POC pour apprendre</td><td><a href="https://github.com/FXC-ai/experimentations_python">experimentations_python</a></td></tr>
 </table>
 
