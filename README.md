@@ -72,7 +72,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
     </td>
     <td><a href="https://github.com/FXC-ai/ft_transcendance">ft_transcendance</a></td>
-    <td>ft_transcendance : projet web full-stack (dernier projet du tronc commun)</td>
+    <td>ft_transcendance : projet web full-stack (dernier projet du tronc commun). Il s'agit d'une plateforme permettant de jouer en ligne au jeu pong.</td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
