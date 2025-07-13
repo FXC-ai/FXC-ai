@@ -12,7 +12,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40"/>
     </td>
     <td><a href="https://github.com/FXC-ai/digital_signature">digital_signature</a></td>
-    <td>Cryptographie en Rust</td>
+    <td>Cryptographie en Rust pour la protection de mots de passe et la certification de messages</td>
   </tr>
   <tr>
     <td align="center"> 
@@ -20,7 +20,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
     </td>
     <td><a href="https://github.com/FXC-ai/sql_query_engine">sql_query_engine</a></td>
-    <td>Requêtes SQL dynamiques</td>
+    <td>Gestion de requêtes SQL dynamiques stockées en base de données</td>
   </tr>
   <tr>
     <td align="center">
