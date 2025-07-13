@@ -15,7 +15,7 @@
     <td>Cryptographie en Rust</td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
     </td>
@@ -117,7 +117,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
     </td>
     <td><a href="https://github.com/FXC-ai/jeu-vote.fr">jeu-vote.fr</a></td>
-    <td>Projet de civic tech : <a href="https://www.jeu-vote.fr">jeu-vote.fr</a></td>
+    <td>Projet de civic tech à l'occasion des élections présidentielles françaises de 2017</td>
   </tr>
   <tr>
     <td align="center">
