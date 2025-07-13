@@ -134,7 +134,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
       <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
     </td>
-    <td><a href="https://github.com/FXC-ai/jeu-vote-2022">jeu-vote-2022</a></td>
+    <td><a href="http://jeu-vote.fr/">jeu-vote-2022</a></td>
     <td>Projet de civic tech à l'occasion des élections présidentielles françaises 2022</td>
   </tr>
   <tr>
