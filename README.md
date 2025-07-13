@@ -27,7 +27,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40"/>
     </td>
     <td><i>À venir...</i></td>
-    <td>Backend pour la librairie de graphiques D3.js</td>
+    <td>Backend pour la librairie de graphiques D3.js. Exemples : calendrier de densité (comme github), diagramme de Gantt, diagramme en barres, etc.</td>
   </tr>
   <tr>
     <td align="center">
