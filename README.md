@@ -111,21 +111,8 @@
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-    </td>
-    <td><a href="https://github.com/FXC-ai/jeu-vote.fr">jeu-vote.fr</a></td>
-    <td>Projet de civic tech à l'occasion des élections présidentielles françaises de 2017</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="40"/>
-    </td>
-    <td><a href="https://www.polatouche.org">polatouche</a></td>
-    <td>Site WordPress : <a href="https://www.polatouche.org">polatouche.org</a></td>
-  </tr>
+
+
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
@@ -134,6 +121,14 @@
     <td><a href="https://github.com/FXC-ai/collectionneur_de_ticket">collectionneur_de_ticket</a></td>
     <td>Proposition de résolution du problème du collectionneur de ticket</td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="40"/>
+    </td>
+    <td><a href="https://www.polatouche.org">polatouche</a></td>
+    <td>Site WordPress : <a href="https://www.polatouche.org">polatouche.org</a></td>
+  </tr>
+
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
@@ -161,6 +156,14 @@
     </td>
     <td><a href="https://github.com/FXC-ai/experimentations_python">experimentations_python</a></td>
     <td>Expérimentations Python : scripts et POC pour apprendre</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+    </td>
+    <td><a href="https://github.com/FXC-ai/jeu-vote.fr">jeu-vote.fr</a></td>
+    <td>Projet de civic tech à l'occasion des élections présidentielles françaises de 2017</td>
   </tr>
 </table>
 
