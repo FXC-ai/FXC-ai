@@ -134,7 +134,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
       <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
     </td>
-    <td><a href="http://jeu-vote.fr/">jeu-vote-2022</a></td>
+    <td><a href="https://github.com/FXC-ai/Jeu-Vote-2022">jeu-vote-2022</a></td>
     <td>Projet de civic tech à l'occasion des élections présidentielles françaises 2022</td>
   </tr>
   <tr>
@@ -163,7 +163,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
     </td>
-    <td><a href="https://github.com/FXC-ai/jeu-vote.fr">jeu-vote.fr</a></td>
+    <td><a href="http://jeu-vote.fr/">jeu-vote.fr</a></td>
     <td>Projet de civic tech à l'occasion des élections présidentielles françaises de 2017</td>
   </tr>
 </table>
