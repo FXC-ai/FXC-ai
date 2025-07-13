@@ -57,9 +57,9 @@
 
 
   <tr>
-    <td align="center"><img src="https://github.com/FXC-ai/malloc/tree/main" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
     <td>Implémetation de la fonction malloc. Projet en cours...</td>
-    <td><a href="https://github.com/FXC-ai/ft_linear_regression">ft_linear_regression</a></td>
+    <td><a href="https://github.com/FXC-ai/malloc/tree/main">ft_malloc</a></td>
   </tr>
   
   <tr>
