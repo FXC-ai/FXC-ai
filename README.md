@@ -90,7 +90,7 @@
     <td>Minishell : shell Unix minimal</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></td>
     <td><a href="https://github.com/FXC-ai/Born2beRoot">Born2beRoot</a></td>
     <td>Born to be Root : introduction à l’administration système (virtualisation, sécurité)</td>
   </tr>
