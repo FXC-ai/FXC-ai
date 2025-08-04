@@ -43,7 +43,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="30"/>
     </td>
-    <td><a href="https://github.com/FXC-ai/microfrontend_js_lib">microfrontend_js_lib</a></td>
+    <td>A venir...</td>
     <td>Librairie de graphiques D3.js</td>
   </tr>
 </table>
