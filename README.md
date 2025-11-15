@@ -56,8 +56,8 @@ x<h1 align="center">👋 Bonjour, je m'appelle François-Xavier</h1>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
-    <td><a href="https://github.com/FXC-ai/malloc/tree/main">ft_malloc</a></td>
-    <td>Implémetation de la fonction malloc. Projet en cours...</td>
+    <td><a href="https://github.com/FXC-ai/malloc/tree/main">malloc</a></td>
+    <td>Implémetation de la fonction malloc. Projet de spécialisation.</td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
