@@ -12,23 +12,6 @@ Aujourd’hui, je poursuis la partie spécialisée afin d'obtenir l'**équivalen
 - **Projets pédagogiques :** 🟩🟩🟩🟨⬜⬜⬜⬜ 3 / 8
 - **Stages               :** 🟩⬜ 1 / 2
 
-### 🧑‍💻Premier stage
-Durant une année de stage chez **Atelier Éveil** (Lausanne), j’ai travaillé sur plusieurs projets concrets autour de la donnée, du backend et de la visualisation :
-
-- 🦀 **Rust — Moteur de requêtes SQL dynamiques**  
-  Conception d’un module capable de charger des requêtes depuis PostgreSQL et de valider des paramètres typés (sqlx).
-
-- 📊 **JS/TS — Librairie D3.js pour micro-frontends**  
-  Création de graphiques interactifs intégrés dans des dashboards automatisés.
-
-- 📈 **Rust + Pola.rs — Système de plugins d’analyse de données**  
-  Architecture modulaire permettant d’exécuter des analyses et transformations complexes.
-
-### 🎓 Formation
-
-- 🏫 **École 42 Lausanne — 2022 à aujourd’hui**
-- 🎓 **Doctorat en Pharmacie — Université de Poitiers (2007–2014)**
-
 ### ✉️ Contact
 
 📫 **fx.coindreau@gmail.com**
