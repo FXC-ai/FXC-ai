@@ -1,5 +1,3 @@
-<h1 align="center">👋 Bonjour, je m'appelle François-Xavier</h1> 
-
 ## 👋 Profil
 Je suis **François-Xavier**, développeur junior passionné. Je suis en reconversion après une première carrière de dix ans entant que **pharmacien**.
 
