@@ -12,13 +12,13 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
     </td>
     <td><a href="https://github.com/FXC-ai/Born2beRoot">Born2beRoot</a></td>
-    <td>Introduction à l’administration système (virtualisation, sécurité)</td>
+    <td>Projet 42 : Projet d’administration système visant à configurer une machine Linux sécurisée, incluant virtualisation, gestion des services, politiques de sécurité et bonnes pratiques système.</td>
   </tr>
 
   <tr>
     <td align="center">Réseau</td>
     <td><i>À venir...</i></td>
-    <td>NetPractice : exercices de réseau et de sous-réseaux</td>
+    <td>Projet 42 : Projet d’initiation aux réseaux permettant d’apprendre le fonctionnement des sous-réseaux, du routage et des règles d’adressage IP à travers une série d’exercices interactifs.</td>
   </tr>
 </table>
 
@@ -32,24 +32,24 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40"/>
     </td>
     <td><a href="https://github.com/FXC-ai/digital_signature">digital_signature</a></td>
-    <td>Cryptographie en Rust pour la protection de mots de passe et la certification de messages</td>
+    <td>Projet personnel : Projet en Rust portant sur la cryptographie appliquée dont l’objectif est d’apprendre et d’implémenter des mécanismes de signature et de protection de données pour sécuriser messages et mots de passe.</td>
   </tr>
 </table>
 
-## 🧱 Developement
+## 🧱 Développement
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
     <td><a href="https://github.com/FXC-ai/webserv">Webserv</a></td>
-    <td>Mini-serveur HTTP</td>
+    <td>Projet 42 : Projet de programmation avancée en C++ consistant à développer un serveur HTTP conforme au protocole, permettant de comprendre sockets, parsing, CGI et logique réseau serveur.</td>
   </tr>
 
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
     <td><a href="https://github.com/FXC-ai/Minishell">Minishell</a></td>
-    <td>Shell Unix minimal</td>
+    <td>Projet 42 : Projet de programmation système en C visant à recréer un shell Unix minimal, incluant parsing, exécution de commandes, redirections et gestion des processus.</td>
   </tr>
 </table>
 
@@ -61,7 +61,7 @@
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></td>
     <td><a href="https://github.com/FXC-ai/inception">Inception</a></td>
-    <td>Projet DevOps pour apprendre Docker</td>
+    <td>Projet 42 : Projet DevOps ayant pour objectif de construire une architecture multi-services en conteneurs Docker, tout en apprenant orchestrations, volumes, réseaux et automatisation système.</td>
   </tr>
 </table>
 
@@ -75,15 +75,15 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
     </td>
     <td><a href="https://github.com/FXC-ai/Cube3D">Cube3D</a></td>
-    <td>Projet 42 : développement d'un mini-jeu 3D from scratch utilisant la technique du ray tracing.</td>
+    <td>Projet 42 : Projet graphique en C visant à concevoir un mini-jeu 3D from scratch grâce au raycasting, afin d’apprendre la programmation graphique bas niveau et la logique de rendu en temps réel.</td>
   </tr>
 
-   <tr>
+  <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
     </td>
     <td><a href="https://github.com/FXC-ai/fractol">fractol</a></td>
-    <td>Projet 42 : visualisation de plusieurs fractales avec possibilité de se déplacer et de zoomer.</td>
+    <td>Projet 42 : Projet graphique en C permettant de visualiser plusieurs fractales en offrant déplacement, zoom et interactions, tout en découvrant le calcul complexe et l’optimisation graphique.</td>
   </tr>  
 </table>
 
@@ -98,13 +98,13 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"/>
     </td>
     <td><a href="https://github.com/FXC-ai/collectionneur_de_ticket/blob/main/MigrosBilles.ipynb">collectionneur_de_ticket</a></td>
-    <td>Proposition de résolution du problème du collectionneur de ticket</td>
+    <td>Projet personnel : Projet d'analyse probabiliste en Python visant à explorer le problème du collectionneur de tickets à travers simulations, visualisations statistiques et modélisation.</td>
   </tr>
 
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
     <td><a href="https://github.com/FXC-ai/ft_linear_regression">ft_linear_regression</a></td>
-    <td>Implémentation d’une régression linéaire en Python</td>
+    <td>Projet 42 : Projet d’introduction au machine learning consistant à implémenter une régression linéaire from scratch en Python et à visualiser l’apprentissage par descente de gradient.</td>
   </tr>
 
   <tr>
@@ -117,7 +117,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40"/>
     </td>
     <td><a href="https://github.com/FXC-ai/experimentations_python">experimentations_python</a></td>
-    <td>Expérimentations Python : scripts, POC et apprentissages</td>
+    <td>Projet personnel : Série d’expérimentations Python dédiées à l’apprentissage, regroupant scripts, prototypes IA, tests mathématiques et explorations de librairies scientifiques.</td>
   </tr>
 </table>
 
@@ -131,13 +131,13 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
     </td>
     <td><i>ft_linux</i></td>
-    <td>Projet 42 : Linux From Scratch, l'objectif est créer pas à pas ma propre distribution linux.</td>
+    <td>Projet 42 : Projet Linux From Scratch dont le but est de comprendre l’OS en construisant étape par étape sa propre distribution Linux, depuis la toolchain jusqu’au système final.</td>
   </tr>
 
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
     <td><a href="https://github.com/FXC-ai/malloc/tree/main">malloc</a></td>
-    <td>Projet 42 : Implémentation de la fonction malloc.</td>
+    <td>Projet 42 : Projet avancé en C consistant à réimplémenter la fonction malloc en gérant allocation mémoire, fragmentation, gestion des zones et optimisation bas niveau.</td>
   </tr>
 </table>
 
@@ -153,7 +153,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
     </td>
     <td><a href="http://jeu-vote.fr/">jeu-vote.fr</a></td>
-    <td>Projet de civic tech à l'occasion des élections présidentielles françaises de 2017</td>
+    <td>Projet personnel : Projet web en PHP permettant de créer une plateforme de civic tech dédiée aux élections, incluant interface citoyenne, interactions utilisateurs et affichage dynamique des résultats.</td>
   </tr>
 
   <tr>
@@ -161,7 +161,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="40"/>
     </td>
     <td><a href="https://www.polatouche.org">polatouche</a></td>
-    <td>Site WordPress : <a href="https://www.polatouche.org">polatouche.org</a></td>
+    <td>Projet personnel : Site web sous WordPress visant à concevoir une plateforme complète avec pages dynamiques, administration simplifiée, intégration de contenus et optimisation SEO.</td>
   </tr>
 
   <tr>
@@ -171,7 +171,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="30"/>
     </td>
     <td><i>À venir...</i></td>
-    <td>Librairie de graphiques D3.js</td>
+    <td>Projet personnel : Projet JavaScript/TypeScript ayant pour but de développer une librairie de visualisation D3.js, incluant graphiques interactifs, animations et outils de manipulation de données.</td>
   </tr>
 
   <tr>
@@ -182,11 +182,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
     </td>
     <td><a href="https://github.com/FXC-ai/ft_transcendance">ft_transcendance</a></td>
-    <td>Projet 42 : Projet web full-stack en équite ayant pour but de créer un plateforme en ligne pour jouer à Pong en réseau.</td>
+    <td>Projet 42 : Projet web full-stack en équipe ayant pour but de créer une plateforme en ligne pour jouer à Pong en réseau, incluant authentification, matchmaking, chat et interface dynamique.</td>
   </tr>
 </table>
-
-
-
 
 📫 <strong>Contact :</strong> <a href="mailto:fx.coindreau@gmail.com">fx.coindreau@gmail.com</a>
