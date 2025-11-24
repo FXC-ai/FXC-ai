@@ -98,13 +98,11 @@
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
-
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
     <td><a href="https://github.com/FXC-ai/ft_linear_regression">ft_linear_regression</a></td>
     <td>Projet 42 : Projet d’introduction au machine learning consistant à implémenter une régression linéaire from scratch en Python et à visualiser l’apprentissage par descente de gradient.</td>
   </tr>
-
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
@@ -113,17 +111,13 @@
     <td><a href="https://github.com/FXC-ai/collectionneur_de_ticket/blob/main/MigrosBilles.ipynb">collectionneur_de_ticket</a></td>
     <td>Projet personnel : Projet d'analyse probabiliste en Python visant à explorer le problème du collectionneur de tickets à travers simulations, visualisations statistiques et modélisation.</td>
   </tr>
-
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-      </td>
-      <td><a href="https://github.com/FXC-ai/push_swap">push_swap</a></td>
-      <td>Projet 42 : Projet algorithmique en C consistant à concevoir un programme capable de trier une pile d’entiers en un nombre minimal d’opérations, en implémentant piles, règles de manipulation et stratégies d’optimisation.</td>
-    </tr>
-
-
-
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+    </td>
+    <td><a href="https://github.com/FXC-ai/push_swap">push_swap</a></td>
+    <td>Projet 42 : Projet algorithmique en C consistant à concevoir un programme capable de trier une pile d’entiers en un nombre minimal d’opérations, en implémentant piles, règles de manipulation et stratégies d’optimisation.</td>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
@@ -137,6 +131,7 @@
     <td>Projet personnel : Série d’expérimentations Python dédiées à l’apprentissage, regroupant scripts, prototypes IA, tests mathématiques et explorations de librairies scientifiques.</td>
   </tr>
 </table>
+
 
 ## 🧬 System & Kernel
 
