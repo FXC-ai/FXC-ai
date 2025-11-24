@@ -1,7 +1,14 @@
 <h1 align="center">👋 Bonjour, je m'appelle François-Xavier</h1> 
 <h3 align="center">💻 Développeur</h3> 
 
-## 👋 À propos de moi
+# 👋 À propos de moi
+
+## 📊 Mon objectif : obtenir l'équivalence bachelor RNCP 6
+
+### Projets pédagogiques : 🟩🟩🟩⬜⬜⬜⬜⬜ 3 / 8
+### Stages               : 🟩⬜ 1 / 2
+
+
 
 Je suis **François-Xavier**, développeur junior passionné et curieux, en reconversion après une première carrière de dix ans dans la pharmacie.
 
@@ -28,15 +35,13 @@ Durant une année de stage chez **Atelier Éveil** (Lausanne), j’ai travaillé
   - Spécialisations en cours  
   - Objectif : **RNCP niveau 6**  
 
-### 📊 Progression RNCP
-`██████░░░░` 60% restants  
-Reste : 6 projets + 6 mois de stage
-
 
 
 ## ✉️ Contact
 
 📫 **fx.coindreau@gmail.com**
+
+# Mes compétences techniques
 
 ## 🖧 AdminSys & Réseau
 
