@@ -249,3 +249,6 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
     <td>Projet 42 : Projet graphique en C permettant de visualiser plusieurs fractales en offrant déplacement, zoom et interactions, tout en découvrant le calcul complexe et l’optimisation graphique.</td>
   </tr>  
 </table>
+---
+(🔎 **Légende** : ⭐ : Projet particulièrement bien structuré ou professionnel; ❤️ : Projet personnel dont je suis fier; 🔥: Projet technique avancé bien documenté)
+
