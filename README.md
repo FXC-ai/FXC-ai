@@ -136,6 +136,15 @@
   </tr>
 
   <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+    </td>
+    <td><a href="https://github.com/FXC-ai/philosopher/tree/main">philosopher</a></td>
+    <td>Projet 42 : Projet de programmation système en C visant à simuler le problème des philosophes afin de comprendre la gestion de la concurrence, l’utilisation des threads, la synchronisation, les mutex et les situations de deadlock.</td>
+  </tr>
+
+
+  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
     <td><a href="https://github.com/FXC-ai/Minishell">Minishell</a></td>
     <td>Projet 42 : Projet de programmation système en C visant à recréer un shell Unix minimal, incluant parsing, exécution de commandes, redirections et gestion des processus.</td>
