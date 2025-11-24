@@ -1,9 +1,93 @@
 <h1 align="center">👋 Bonjour, je m'appelle François-Xavier</h1> 
 <h3 align="center">💻 Développeur</h3> 
 
----
+## 🖧 AdminSys & Réseau
 
-## 🤖 Algo, AI & Data
+<table>
+  <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+    </td>
+    <td><a href="https://github.com/FXC-ai/Born2beRoot">Born2beRoot</a></td>
+    <td>Introduction à l’administration système (virtualisation, sécurité)</td>
+  </tr>
+
+  <tr>
+    <td align="center">Réseau</td>
+    <td><i>À venir...</i></td>
+    <td>NetPractice : exercices de réseau et de sous-réseaux</td>
+  </tr>
+</table>
+
+## 🔐 Cryptographie et Sécurité
+
+<table>
+  <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40"/>
+    </td>
+    <td><a href="https://github.com/FXC-ai/digital_signature">digital_signature</a></td>
+    <td>Cryptographie en Rust pour la protection de mots de passe et la certification de messages</td>
+  </tr>
+</table>
+
+## 🧱 Developement
+
+<table>
+  <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
+    <td><a href="https://github.com/FXC-ai/webserv">Webserv</a></td>
+    <td>Mini-serveur HTTP</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
+    <td><a href="https://github.com/FXC-ai/Minishell">Minishell</a></td>
+    <td>Shell Unix minimal</td>
+  </tr>
+</table>
+
+## 🐳 DevOps
+
+<table>
+  <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></td>
+    <td><a href="https://github.com/FXC-ai/inception">Inception</a></td>
+    <td>Projet DevOps pour apprendre Docker</td>
+  </tr>
+</table>
+
+## 🎮 Graphique & Jeux Vidéo
+
+<table>
+  <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+    </td>
+    <td><a href="https://github.com/FXC-ai/Cube3D">Cube3D</a></td>
+    <td>Projet 42 : développement d'un mini-jeu 3D from scratch utilisant la technique du ray tracing.</td>
+  </tr>
+
+   <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+    </td>
+    <td><a href="https://github.com/FXC-ai/fractol">fractol</a></td>
+    <td>Projet 42 : visualisation de plusieurs fractales avec possibilité de se déplacer et de zoomer.</td>
+  </tr>  
+</table>
+
+## 🤖 IA & Data
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
@@ -37,27 +121,25 @@
   </tr>
 </table>
 
----
-
-## 🔒 Security
-
-Projets à venir…
-
----
-
-## 🐳 DevOps
+## 🧬 System & Kernel
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
 
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></td>
-    <td><a href="https://github.com/FXC-ai/inception">Inception</a></td>
-    <td>Projet DevOps pour apprendre Docker</td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+    </td>
+    <td><i>ft_linux</i></td>
+    <td>Projet 42 : Linux From Scratch, l'objectif est créer pas à pas ma propre distribution linux.</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
+    <td><a href="https://github.com/FXC-ai/malloc/tree/main">malloc</a></td>
+    <td>Projet 42 : Implémentation de la fonction malloc.</td>
   </tr>
 </table>
-
----
 
 ## 🌐 Web
 
@@ -100,119 +182,11 @@ Projets à venir…
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
     </td>
     <td><a href="https://github.com/FXC-ai/ft_transcendance">ft_transcendance</a></td>
-    <td>Projet web full-stack (plateforme en ligne pour jouer à Pong)</td>
+    <td>Projet 42 : Projet web full-stack en équite ayant pour but de créer un plateforme en ligne pour jouer à Pong en réseau.</td>
   </tr>
 </table>
 
----
 
-## 🖧 AdminSys & Network
 
-<table>
-  <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-    </td>
-    <td><a href="https://github.com/FXC-ai/Born2beRoot">Born2beRoot</a></td>
-    <td>Introduction à l’administration système (virtualisation, sécurité)</td>
-  </tr>
-
-  <tr>
-    <td align="center">Réseau</td>
-    <td><i>À venir...</i></td>
-    <td>NetPractice : exercices de réseau et de sous-réseaux</td>
-  </tr>
-</table>
-
----
-
-## 🧬 System & Kernel
-
-<table>
-  <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-    </td>
-    <td><i>À venir...</i></td>
-    <td>ft_linux</td>
-  </tr>
-
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
-    <td><a href="https://github.com/FXC-ai/malloc/tree/main">malloc</a></td>
-    <td>Implémentation de la fonction malloc (projet de spécialisation)</td>
-  </tr>
-</table>
-
----
-
-## 🎮 Graphic & Gaming
-
-## 🎮 Graphic & Gaming
-
-<table>
-  <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-    </td>
-    <td><a href="https://github.com/FXC-ai/Cube3D">Cube3D</a></td>
-    <td>Projet 42 : développement d'un mini-jeu 3D from scratch utilisant la technique du ray tracing.</td>
-  </tr>
-
-   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-    </td>
-    <td><a href="https://github.com/FXC-ai/fractol">fractol</a></td>
-    <td>Projet 42 : visualisation de plusieurs fractales avec possibilité de se déplacer et de zoomer.</td>
-  </tr>
-
-  
-</table>
-
----
-
-## 🔐 Cryptography
-
-<table>
-  <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40"/>
-    </td>
-    <td><a href="https://github.com/FXC-ai/digital_signature">digital_signature</a></td>
-    <td>Cryptographie en Rust pour la protection de mots de passe et la certification de messages</td>
-  </tr>
-</table>
-
----
-
-## 🧱 Development & Programming
-
-<table>
-  <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
-
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
-    <td><a href="https://github.com/FXC-ai/webserv">Webserv</a></td>
-    <td>Mini-serveur HTTP</td>
-  </tr>
-
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
-    <td><a href="https://github.com/FXC-ai/Minishell">Minishell</a></td>
-    <td>Shell Unix minimal</td>
-  </tr>
-</table>
-
----
 
 📫 <strong>Contact :</strong> <a href="mailto:fx.coindreau@gmail.com">fx.coindreau@gmail.com</a>
