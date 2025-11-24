@@ -10,7 +10,7 @@
     <td><a href="https://github.com/FXC-ai/webserv">Webserv</a></td>
     <td>Projet 42 : Projet de programmation avancée en C++ consistant à développer un serveur HTTP conforme au protocole, permettant de comprendre sockets, parsing, CGI et logique réseau serveur.</td>
   </tr>
-  <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
+
   <tr>
     <td align="center"><img src="https://freesvg.org/img/provider_internetsvg.png" width="40"/></td>
     <td><a href="https://github.com/FXC-ai/NetPractice">NetPractice</a></td>
