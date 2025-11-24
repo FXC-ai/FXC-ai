@@ -180,7 +180,7 @@ En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’appre
 
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/ c-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
     </td>
     <td><a href="https://github.com/FXC-ai/push_swap">push_swap</a></td>
     <td>Projet 42 : Projet algorithmique en C consistant à concevoir un programme capable de trier une pile d’entiers en un nombre minimal d’opérations, en implémentant piles, règles de manipulation et stratégies d’optimisation.</td>
