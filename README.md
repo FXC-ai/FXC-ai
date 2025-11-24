@@ -1,21 +1,18 @@
 <h1 align="center">👋 Bonjour, je m'appelle François-Xavier</h1> 
-<h3 align="center">💻 Développeur</h3> 
 
-# 👋 À propos de moi
-
-## 📊 Mon objectif : obtenir l'équivalence bachelor RNCP 6
-
-### Projets pédagogiques : 🟩🟩🟩⬜⬜⬜⬜⬜ 3 / 8
-### Stages               : 🟩⬜ 1 / 2
-
-
-
+# 👋 Profil
 Je suis **François-Xavier**, développeur junior passionné et curieux, en reconversion après une première carrière de dix ans dans la pharmacie.
 
 En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’apprendre à construire des systèmes logiciels.  
 J’ai rejoint l’**École 42 Lausanne**, où j’ai validé le **tronc commun** en 2024.  
 Aujourd’hui, je poursuis la partie spécialisée afin d'obtenir l'**équivalence bachelor (RNCP 6)**.
 
+## 📊 Mon objectif : obtenir l'équivalence bachelor RNCP 6
+
+**Projets pédagogiques :** 🟩🟩🟩⬜⬜⬜⬜⬜ 3 / 8
+**Stages               :** 🟩⬜ 1 / 2
+
+## Premier stage
 Durant une année de stage chez **Atelier Éveil** (Lausanne), j’ai travaillé sur plusieurs projets concrets autour de la donnée, du backend et de la visualisation :
 
 - 🦀 **Rust — Moteur de requêtes SQL dynamiques**  
@@ -29,19 +26,14 @@ Durant une année de stage chez **Atelier Éveil** (Lausanne), j’ai travaillé
 
 ## 🎓 Formation
 
-- 🎓 **Doctorat en Pharmacie — Université de Poitiers (2007–2014)**
 - 🏫 **École 42 Lausanne — 2022 à aujourd’hui**
-  - Tronc commun validé  
-  - Spécialisations en cours  
-  - Objectif : **RNCP niveau 6**  
-
-
+- 🎓 **Doctorat en Pharmacie — Université de Poitiers (2007–2014)**
 
 ## ✉️ Contact
 
 📫 **fx.coindreau@gmail.com**
 
-# Mes compétences techniques
+# Compétences techniques
 
 ## 🖧 AdminSys & Réseau
 
