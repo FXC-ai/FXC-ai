@@ -2,7 +2,7 @@
 
 ## 👋 Profil
 
-Je suis **François-Xavier**, développeur junior passionné en reconversion après une première carrière de dix ans en tant que **pharmacien**.
+Je suis **François-Xavier**, développeur passionné en reconversion après une première carrière de dix ans en tant que **pharmacien**.
 
 En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’apprendre à construire des systèmes logiciels.  
 J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commun** en 2024. Aujourd’hui, je poursuis la partie spécialisée et je me forme aux systèmes, au développement backend, au réseau, à l’algorithmie, à la cryptographie et au DevOps.
