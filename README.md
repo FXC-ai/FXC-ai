@@ -32,7 +32,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40"/>
     </td>
     <td><a href="https://github.com/FXC-ai/digital_signature">digital_signature</a></td>
-    <td>Projet personnel : Projet en Rust portant sur la cryptographie appliquée dont l’objectif est d’apprendre et d’implémenter des mécanismes de signature et de protection de données pour sécuriser messages et mots de passe.</td>
+    <td>Projet de stage : Projet en Rust portant sur la cryptographie appliquée dont l’objectif est d’implémenter des mécanismes de signature et de protection de données pour sécuriser messages et mots de passe.</td>
   </tr>
 </table>
 
@@ -46,11 +46,6 @@
     <td>Projet 42 : Projet de programmation avancée en C++ consistant à développer un serveur HTTP conforme au protocole, permettant de comprendre sockets, parsing, CGI et logique réseau serveur.</td>
   </tr>
 
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
-    <td><a href="https://github.com/FXC-ai/Minishell">Minishell</a></td>
-    <td>Projet 42 : Projet de programmation système en C visant à recréer un shell Unix minimal, incluant parsing, exécution de commandes, redirections et gestion des processus.</td>
-  </tr>
 </table>
 
 ## 🐳 DevOps
@@ -139,30 +134,19 @@
     <td><a href="https://github.com/FXC-ai/malloc/tree/main">malloc</a></td>
     <td>Projet 42 : Projet avancé en C consistant à réimplémenter la fonction malloc en gérant allocation mémoire, fragmentation, gestion des zones et optimisation bas niveau.</td>
   </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
+    <td><a href="https://github.com/FXC-ai/Minishell">Minishell</a></td>
+    <td>Projet 42 : Projet de programmation système en C visant à recréer un shell Unix minimal, incluant parsing, exécution de commandes, redirections et gestion des processus.</td>
+  </tr>
+  
 </table>
 
 ## 🌐 Web
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-    </td>
-    <td><a href="http://jeu-vote.fr/">jeu-vote.fr</a></td>
-    <td>Projet personnel : Projet web en PHP permettant de créer une plateforme de civic tech dédiée aux élections, incluant interface citoyenne, interactions utilisateurs et affichage dynamique des résultats.</td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="40"/>
-    </td>
-    <td><a href="https://www.polatouche.org">polatouche</a></td>
-    <td>Projet personnel : Site web sous WordPress visant à concevoir une plateforme complète avec pages dynamiques, administration simplifiée, intégration de contenus et optimisation SEO.</td>
-  </tr>
 
   <tr>
     <td align="center">
@@ -184,6 +168,25 @@
     <td><a href="https://github.com/FXC-ai/ft_transcendance">ft_transcendance</a></td>
     <td>Projet 42 : Projet web full-stack en équipe ayant pour but de créer une plateforme en ligne pour jouer à Pong en réseau, incluant authentification, matchmaking, chat et interface dynamique.</td>
   </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="40"/>
+    </td>
+    <td><a href="https://www.polatouche.org">polatouche</a></td>
+    <td>Projet personnel : Site web sous WordPress pour une entreprise de menuiserie.</td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+    </td>
+    <td><a href="http://jeu-vote.fr/">jeu-vote.fr</a></td>
+    <td>Projet personnel : Projet web en PHP permettant de créer une plateforme de civic tech dédiée aux élections, incluant interface citoyenne, interactions utilisateurs et affichage dynamique des résultats.</td>
+  </tr>
+
 </table>
 
 📫 <strong>Contact :</strong> <a href="mailto:fx.coindreau@gmail.com">fx.coindreau@gmail.com</a>
