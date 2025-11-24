@@ -252,5 +252,5 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
 
 ---
 
-(🔎 **Légende** : ⭐ : Projet particulièrement bien structuré ou professionnel; ❤️ : Projet personnel dont je suis fier; 🔥: Projet technique avancé bien documenté)
+(🔎 **Légende** : ⭐ : Projet particulièrement bien structuré; ❤️ : Projet personnel dont je suis fier; 🔥: Projet technique avancé bien documenté)
 
