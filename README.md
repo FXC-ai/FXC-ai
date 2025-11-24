@@ -4,22 +4,29 @@
 ## 🖧 AdminSys & Réseau
 
 <table>
+    <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
+    <td><a href="https://github.com/FXC-ai/webserv">Webserv</a></td>
+    <td>Projet 42 : Projet de programmation avancée en C++ consistant à développer un serveur HTTP conforme au protocole, permettant de comprendre sockets, parsing, CGI et logique réseau serveur.</td>
+  </tr>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
-
+  <tr>
+    <td align="center"><img src="https://freesvg.org/img/provider_internetsvg.png" width="40"/></td>
+    <td><a href="https://github.com/FXC-ai/NetPractice">NetPractice</a></td>
+    <td>Projet 42 : Projet d’initiation aux réseaux permettant d’apprendre le fonctionnement des sous-réseaux, du routage et des règles d’adressage IP à travers une série d’exercices interactifs.</td>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
     </td>
     <td><a href="https://github.com/FXC-ai/Born2beRoot">Born2beRoot</a></td>
-    <td>Projet 42 : Projet d’administration système visant à configurer une machine Linux sécurisée, incluant virtualisation, gestion des services, politiques de sécurité et bonnes pratiques système.</td>
+    <td>Projet 42 : Projet d’administration système visant à configurer une machine Linux sécurisée, incluant virtualisation, gestion des services, politiques de sécurité et bonnes pratiques système.
+    </td>
   </tr>
 
-  <tr>
-    <td align="center"><img src="https://freesvg.org/img/provider_internetsvg.png" width="40"/></td>
-    <td><a href="https://github.com/FXC-ai/NetPractice">NetPractice</a></td>
-    <td>Projet 42 : Projet d’initiation aux réseaux permettant d’apprendre le fonctionnement des sous-réseaux, du routage et des règles d’adressage IP à travers une série d’exercices interactifs.</td>
-  </tr>
+
 </table>
 
 ## 🔐 Cryptographie et Sécurité
@@ -38,15 +45,7 @@
 
 ## 🧱 Développement
 
-<table>
-  <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
-    <td><a href="https://github.com/FXC-ai/webserv">Webserv</a></td>
-    <td>Projet 42 : Projet de programmation avancée en C++ consistant à développer un serveur HTTP conforme au protocole, permettant de comprendre sockets, parsing, CGI et logique réseau serveur.</td>
-  </tr>
 
-</table>
 
 ## 🐳 DevOps
 
