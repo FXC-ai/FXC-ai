@@ -248,5 +248,3 @@ Durant une année de stage chez **Atelier Éveil** (Lausanne), j’ai travaillé
   </tr>
 
 </table>
-
-📫 <strong>Contact :</strong> <a href="mailto:fx.coindreau@gmail.com">fx.coindreau@gmail.com</a>
