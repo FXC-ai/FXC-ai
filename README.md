@@ -1,20 +1,16 @@
 <h1 align="center">👋 Bonjour, je m'appelle François-Xavier</h1> 
 
 ## 👋 Profil
-Je suis **François-Xavier**, développeur junior passionné. Je suis en reconversion après une première carrière de dix ans dans la pharmacie.
+Je suis **François-Xavier**, développeur junior passionné. Je suis en reconversion après une première carrière de dix ans entant que **pharmacien**.
 
 En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’apprendre à construire des systèmes logiciels. J’ai rejoint l’**École 42 Lausanne**, où j’ai validé le **tronc commun** en 2024.
 
-Aujourd’hui, je poursuis la partie spécialisée afin d'obtenir l'**équivalence bachelor (RNCP 6 Application Development)**.
+📊 **Mon objectif : obtenir les RNCP 6 Application Development**
 
-#### 📊 Mon objectif : obtenir l'équivalence bachelor RNCP 6
+- Projets pédagogiques : 🟩🟩🟩🟨⬜⬜⬜⬜ 3 / 8
+- Stages               : 🟩⬜ 1 / 2
 
-- **Projets pédagogiques :** 🟩🟩🟩🟨⬜⬜⬜⬜ 3 / 8
-- **Stages               :** 🟩⬜ 1 / 2
-
-#### ✉️ Contact
-
-📫 **fx.coindreau@gmail.com**
+📫 **Contact :** fx.coindreau@gmail.com
 
 ## Compétences techniques
 
