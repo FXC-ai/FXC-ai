@@ -3,8 +3,8 @@
 # 👋 Profil
 Je suis **François-Xavier**, développeur junior passionné. Je suis en reconversion après une première carrière de dix ans dans la pharmacie.
 
-En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’apprendre à construire des systèmes logiciels.  
-J’ai rejoint l’**École 42 Lausanne**, où j’ai validé le **tronc commun** en 2024.  
+En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’apprendre à construire des systèmes logiciels. J’ai rejoint l’**École 42 Lausanne**, où j’ai validé le **tronc commun** en 2024.
+
 Aujourd’hui, je poursuis la partie spécialisée afin d'obtenir l'**équivalence bachelor (RNCP 6)**.
 
 ## 📊 Mon objectif : obtenir l'équivalence bachelor RNCP 6
