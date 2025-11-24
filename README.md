@@ -153,7 +153,21 @@ Projets à venir…
 
 ## 🎮 Graphic & Gaming
 
-Projets à venir…
+## 🎮 Graphic & Gaming
+
+<table>
+  <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+    </td>
+    <td><a href="https://github.com/FXC-ai/Cube3D">Cube3D</a></td>
+    <td>Projet 42 : développement d'un mini-jeu 3D from scratch utilisant la technique du ray tracing.</td>
+  </tr>
+
+  
+</table>
 
 ---
 
