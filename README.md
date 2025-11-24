@@ -45,6 +45,19 @@
 
 ## 🧱 Développement
 
+<table>
+  <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+    </td>
+    <td><a href="https://github.com/FXC-ai/sql_query_engine">sql_query_engine</a></td>
+    <td>Le module query_engine vous permet d'exécuter dynamiquement des requêtes SQL stockées en base de données avec validation de paramètres typés. Il s'appuie sur sqlx et fonctionne avec une base PostgreSQL.</td>
+  </tr>
+
+</table>
 
 
 ## 🐳 DevOps
