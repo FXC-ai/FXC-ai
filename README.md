@@ -122,6 +122,8 @@
       <td>Projet 42 : Projet algorithmique en C consistant à concevoir un programme capable de trier une pile d’entiers en un nombre minimal d’opérations, en implémentant piles, règles de manipulation et stratégies d’optimisation.</td>
     </tr>
 
+
+
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
