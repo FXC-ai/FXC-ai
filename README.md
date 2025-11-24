@@ -1,75 +1,42 @@
 <h1 align="center">👋 Bonjour, je m'appelle François-Xavier</h1> 
 <h3 align="center">💻 Développeur</h3> 
 
----
+## 👋 À propos de moi
 
-## 👤 À propos de moi
+Je suis **François-Xavier**, développeur junior passionné et curieux, en reconversion après une première carrière de dix ans dans la pharmacie.
 
-<table>
-<tr>
-<td width="200">
+En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’apprendre à construire des systèmes logiciels.  
+J’ai rejoint l’**École 42 Lausanne**, où j’ai validé le **tronc commun** en 2024.  
+Aujourd’hui, je poursuis la partie spécialisée afin d'obtenir l'**équivalence bachelor (RNCP 6)**.
 
-<img src="https://i.imgur.com/4YbFNoF.png" width="180" alt="Profile"/>
+Durant une année de stage chez **Atelier Éveil** (Lausanne), j’ai travaillé sur plusieurs projets concrets autour de la donnée, du backend et de la visualisation :
 
-</td>
-<td>
+- 🦀 **Rust — Moteur de requêtes SQL dynamiques**  
+  Conception d’un module capable de charger des requêtes depuis PostgreSQL et de valider des paramètres typés (sqlx).
 
-### 👋 Bonjour, je suis **François-Xavier**, développeur junior en reconversion.
+- 📊 **JS/TS — Librairie D3.js pour micro-frontends**  
+  Création de graphiques interactifs intégrés dans des dashboards automatisés.
 
-Ancien **pharmacien**, j’ai décidé en 2022 de me tourner vers un domaine qui m’a toujours passionné : **la programmation et la création de solutions techniques**.  
-Après avoir validé le **tronc commun de l’École 42 (mai 2024)**, j’ai effectué une année de stage en développement à **Atelier Éveil (Lausanne)** où j’ai eu l’opportunité de travailler sur des projets concrets et exigeants :
-
-- 🧩 **Rust — moteur de requêtes SQL dynamique (sql_query_engine)**  
-- 📊 **JavaScript/TypeScript — librairie D3.js pour micro-frontends**  
-- 📈 **Rust — modules d’analyse de données (plugins Pola.rs)**  
-
-Je poursuis actuellement mes **spécialisations en systèmes, réseau, cryptographie, IA et développement avancé** à l’École 42 avec l’objectif d’obtenir les **RNCP niveau 6**.
-
-🎯 **Je recherche un stage de 6 mois dès début 2026**, idéalement dans un environnement où je pourrai :  
-- écrire du code propre et robuste,  
-- apprendre encore (beaucoup !),  
-- contribuer à des projets utiles et ambitieux.
-
-Curieux, déterminé, méthodique et passionné par la résolution de problèmes, j’aime comprendre ce qui se passe “sous le capot” : protocoles réseau, gestion mémoire, algorithmes, architecture logicielle…
-
-Si vous cherchez quelqu’un de motivé, capable d’apprendre très vite et avec une réelle maturité professionnelle : **je serai ravi d’échanger avec vous.**
-
-📫 **Contact :** [fx.coindreau@gmail.com](mailto:fx.coindreau@gmail.com)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛣️ Parcours professionnel
-
-### 🖥️ Sept. 2024 — Sept. 2025 : *Stagiaire développeur*, Atelier Éveil (Lausanne)
-Projet de création automatisée de dashboards :
-- 🧪 **Gestionnaire de requêtes SQL** (Rust, sqlx, PostgreSQL)  
-- 📊 **Librairie de graphes D3.js** (JS/TS, micro-frontend)  
-- 📉 **Analyse de données** (Rust, Pola.rs, architecture plugin)
-
-### 🧪 2017 — 2024 : *Pharmacien d’officine*, Suisse (Haute-Savoie)  
-Gestion d’équipes, relation patient, responsabilité, rigueur scientifique.
-
-### 🧪 2014 — 2017 : *Pharmacien d’officine*, France  
-
----
+- 📈 **Rust + Pola.rs — Système de plugins d’analyse de données**  
+  Architecture modulaire permettant d’exécuter des analyses et transformations complexes.
 
 ## 🎓 Formation
 
-### 🎓 Doctorat en Pharmacie — Université de Poitiers  
-*2007 — 2014*
+- 🎓 **Doctorat en Pharmacie — Université de Poitiers (2007–2014)**
+- 🏫 **École 42 Lausanne — 2022 à aujourd’hui**
+  - Tronc commun validé  
+  - Spécialisations en cours  
+  - Objectif : **RNCP niveau 6**  
 
-### 🎓 École 42 Lausanne — 2022 à aujourd’hui  
-- Tronc commun validé  
-- Spécialisations en cours  
-- Objectif : **certification RNCP niveau 6**
-
----
+### 📊 Progression RNCP
+`██████░░░░` 60% restants  
+Reste : 6 projets + 6 mois de stage
 
 
+
+## ✉️ Contact
+
+📫 **fx.coindreau@gmail.com**
 
 ## 🖧 AdminSys & Réseau
 
