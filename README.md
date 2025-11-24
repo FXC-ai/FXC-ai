@@ -1,19 +1,33 @@
+# François-Xavier Coindreau — Développeur junior en reconversion
+
 ## 👋 Profil
-Je suis **François-Xavier**, développeur junior passionné. J'accomplis une reconversion après une première carrière de dix ans en tant que **pharmacien**.
 
-En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’apprendre à construire des systèmes logiciels. J’ai rejoint l’**École 42 Lausanne**, où j’ai validé le **tronc commun** en 2024.
+Je suis **François-Xavier**, développeur junior passionné en reconversion après une première carrière de dix ans en tant que **pharmacien**.
 
-📊 **Mon objectif : obtenir les RNCP 6 Application Development**
+En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’apprendre à construire des systèmes logiciels.  
+J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commun** en 2024. Aujourd’hui, je poursuis la partie spécialisée et je me forme aux systèmes, au développement backend, au réseau, à l’algorithmie, à la cryptographie et au DevOps.
 
-- Projets pédagogiques : 🟩🟩🟩🟨⬜⬜⬜⬜ 3 / 8
-- Stages               : 🟩⬜ 1 / 2
+📊 **Objectif : obtenir la certification RNCP 6 “Application Developer”**
 
-📫 **Contact :** fx.coindreau@gmail.com
+- Projets pédagogiques : 🟩🟩🟩🟨⬜⬜⬜⬜ 3 / 8  
+- Stages : 🟩⬜ 1 / 2  
 
+📫 **Contact :** fx.coindreau@gmail.com  
+💬 *Ouvert aux échanges autour d’un stage, d’un premier poste ou simplement pour discuter de Rust, systèmes et data !*
 
 ---
 
-# 🧱 Développement
+## 🛠️ Stack principale
+
+- **Langages :** C, C++, Rust, Python, JavaScript, TypeScript, PHP, SQL  
+- **Backend & Data :** Rust (sqlx, Pola.rs), PostgreSQL, Django  
+- **Frontend & Web :** D3.js, Bootstrap, WordPress  
+- **Systèmes & Réseau :** Linux, bash, HTTP, sockets, Docker  
+- **IA & Data Science :** NumPy, pandas, scikit-learn, Keras, Matplotlib  
+
+---
+
+## 🧱 Développement
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
@@ -27,13 +41,12 @@ En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’appre
   </tr>
 </table>
 
-
 ---
 
-# 🌐 Web
+## 🌐 Web
 
 <table>
-  <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
+  <tr><th>Tech</th><thu>Lien</th><th>Description</th></tr>
 
   <tr>
     <td align="center">
@@ -42,7 +55,7 @@ En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’appre
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="30"/>
     </td>
     <td><a href="https://github.com/FXC-ai/microfrontend_js_lib">Librairie de Graphiques d3.js</a></td>
-    <td>Projet de stage : Projet JavaScript/TypeScript ayant pour but de développer une librairie de visualisation D3.js de graphiques intéractifs</td>
+    <td>Projet de stage : Projet JavaScript/TypeScript ayant pour but de développer une librairie de visualisation D3.js de graphiques interactifs.</td>
   </tr>
 
   <tr>
@@ -76,10 +89,9 @@ En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’appre
 
 </table>
 
-
 ---
 
-# 🐳 DevOps
+## 🐳 DevOps
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
@@ -91,10 +103,9 @@ En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’appre
   </tr>
 </table>
 
-
 ---
 
-# 🧬 System & Kernel
+## 🧬 System & Kernel
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
@@ -122,13 +133,12 @@ En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’appre
     <td><a href="https://github.com/FXC-ai/Minishell">Minishell</a></td>
     <td>Projet 42 : Projet de programmation système en C visant à recréer un shell Unix minimal, incluant parsing, exécution de commandes, redirections et gestion des processus.</td>
   </tr>
-  
-</table>
 
+</table>
 
 ---
 
-# 🖧 AdminSys & Réseau
+## 🖧 AdminSys & Réseau
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
@@ -153,12 +163,12 @@ En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’appre
     <td><a href="https://github.com/FXC-ai/Born2beRoot">Born2beRoot</a></td>
     <td>Projet 42 : Projet d’administration système visant à configurer une machine Linux sécurisée, incluant virtualisation, gestion des services, politiques de sécurité et bonnes pratiques système.</td>
   </tr>
-</table>
 
+</table>
 
 ---
 
-# 🤖 IA, Algo & Data
+## 🤖 IA, Algo & Data
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
@@ -189,7 +199,7 @@ En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’appre
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-      <img src="https://upload.wikimedia.com/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
@@ -200,10 +210,9 @@ En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’appre
   </tr>
 </table>
 
-
 ---
 
-# 🔐 Cryptographie & Sécurité
+## 🔐 Cryptographie & Sécurité
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
@@ -217,10 +226,9 @@ En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’appre
   </tr>
 </table>
 
-
 ---
 
-# 🎮 Graphique & Jeux Vidéo
+## 🎮 Graphique & Jeux Vidéo
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
