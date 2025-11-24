@@ -9,8 +9,8 @@ Aujourd’hui, je poursuis la partie spécialisée afin d'obtenir l'**équivalen
 
 ## 📊 Mon objectif : obtenir l'équivalence bachelor RNCP 6
 
-**Projets pédagogiques :** 🟩🟩🟩🟨⬜⬜⬜⬜ 3 / 8
-**Stages               :** 🟩⬜ 1 / 2
+- **Projets pédagogiques :** 🟩🟩🟩🟨⬜⬜⬜⬜ 3 / 8
+- **Stages               :** 🟩⬜ 1 / 2
 
 ## 🧑‍💻Premier stage
 Durant une année de stage chez **Atelier Éveil** (Lausanne), j’ai travaillé sur plusieurs projets concrets autour de la donnée, du backend et de la visualisation :
