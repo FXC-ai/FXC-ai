@@ -36,8 +36,8 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
     </td>
-    <td><a href="https://github.com/FXC-ai/sql_query_engine">⭐ sql_query_engine</a></td>
-    <td>Projet de stage : Le module query_engine vous permet d'exécuter dynamiquement des requêtes SQL stockées en base de données avec validation de paramètres typés. Il s'appuie sur sqlx et fonctionne avec une base PostgreSQL.</td>
+    <td><a href="https://github.com/FXC-ai/sql_query_engine">sql_query_engine</a></td>
+    <td>⭐ Projet de stage : Le module query_engine vous permet d'exécuter dynamiquement des requêtes SQL stockées en base de données avec validation de paramètres typés. Il s'appuie sur sqlx et fonctionne avec une base PostgreSQL.</td>
   </tr>
 </table>
 
@@ -118,8 +118,8 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
 
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
-    <td><a href="https://github.com/FXC-ai/malloc/tree/main">🔥 malloc</a></td>
-    <td>Projet 42 : Projet avancé en C consistant à réimplémenter la fonction malloc en gérant allocation mémoire, fragmentation, gestion des zones et optimisation bas niveau.</td>
+    <td><a href="https://github.com/FXC-ai/malloc/tree/main">malloc</a></td>
+    <td>🔥Projet 42 : Projet avancé en C consistant à réimplémenter la fonction malloc en gérant allocation mémoire, fragmentation, gestion des zones et optimisation bas niveau.</td>
   </tr>
 
   <tr>
@@ -175,8 +175,8 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
 
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
-    <td><a href="https://github.com/FXC-ai/ft_linear_regression">⭐ ft_linear_regression</a></td>
-    <td>Projet 42 : Projet d’introduction au machine learning consistant à implémenter une régression linéaire from scratch en Python et à visualiser l’apprentissage par descente de gradient.</td>
+    <td><a href="https://github.com/FXC-ai/ft_linear_regression">ft_linear_regression</a></td>
+    <td>⭐Projet 42 : Projet d’introduction au machine learning consistant à implémenter une régression linéaire from scratch en Python et à visualiser l’apprentissage par descente de gradient.</td>
   </tr>
 
   <tr>
@@ -184,8 +184,8 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"/>
     </td>
-    <td><a href="https://github.com/FXC-ai/collectionneur_de_ticket/blob/main/MigrosBilles.ipynb">❤️ collectionneur_de_ticket</a></td>
-    <td>Projet personnel : Projet d'analyse probabiliste en Python visant à explorer le problème du collectionneur de tickets à travers simulations, visualisations statistiques et modélisation.</td>
+    <td><a href="https://github.com/FXC-ai/collectionneur_de_ticket/blob/main/MigrosBilles.ipynb">collectionneur_de_ticket</a></td>
+    <td>❤️Projet personnel : Projet d'analyse probabiliste en Python visant à explorer le problème du collectionneur de tickets à travers simulations, visualisations statistiques et modélisation.</td>
   </tr>
 
   <tr>
