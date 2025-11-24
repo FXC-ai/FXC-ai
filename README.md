@@ -7,12 +7,12 @@ En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’appre
 
 Aujourd’hui, je poursuis la partie spécialisée afin d'obtenir l'**équivalence bachelor (RNCP 6)**.
 
-### 📊 Mon objectif : obtenir l'équivalence bachelor RNCP 6
+#### 📊 Mon objectif : obtenir l'équivalence bachelor RNCP 6
 
 - **Projets pédagogiques :** 🟩🟩🟩🟨⬜⬜⬜⬜ 3 / 8
 - **Stages               :** 🟩⬜ 1 / 2
 
-### ✉️ Contact
+#### ✉️ Contact
 
 📫 **fx.coindreau@gmail.com**
 
