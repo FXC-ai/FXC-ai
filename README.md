@@ -1,18 +1,18 @@
 <h1 align="center">👋 Bonjour, je m'appelle François-Xavier</h1> 
 
-# 👋 Profil
+## 👋 Profil
 Je suis **François-Xavier**, développeur junior passionné. Je suis en reconversion après une première carrière de dix ans dans la pharmacie.
 
 En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’apprendre à construire des systèmes logiciels. J’ai rejoint l’**École 42 Lausanne**, où j’ai validé le **tronc commun** en 2024.
 
 Aujourd’hui, je poursuis la partie spécialisée afin d'obtenir l'**équivalence bachelor (RNCP 6)**.
 
-## 📊 Mon objectif : obtenir l'équivalence bachelor RNCP 6
+### 📊 Mon objectif : obtenir l'équivalence bachelor RNCP 6
 
 - **Projets pédagogiques :** 🟩🟩🟩🟨⬜⬜⬜⬜ 3 / 8
 - **Stages               :** 🟩⬜ 1 / 2
 
-## 🧑‍💻Premier stage
+### 🧑‍💻Premier stage
 Durant une année de stage chez **Atelier Éveil** (Lausanne), j’ai travaillé sur plusieurs projets concrets autour de la donnée, du backend et de la visualisation :
 
 - 🦀 **Rust — Moteur de requêtes SQL dynamiques**  
@@ -24,18 +24,18 @@ Durant une année de stage chez **Atelier Éveil** (Lausanne), j’ai travaillé
 - 📈 **Rust + Pola.rs — Système de plugins d’analyse de données**  
   Architecture modulaire permettant d’exécuter des analyses et transformations complexes.
 
-## 🎓 Formation
+### 🎓 Formation
 
 - 🏫 **École 42 Lausanne — 2022 à aujourd’hui**
 - 🎓 **Doctorat en Pharmacie — Université de Poitiers (2007–2014)**
 
-## ✉️ Contact
+### ✉️ Contact
 
 📫 **fx.coindreau@gmail.com**
 
-# Compétences techniques
+## Compétences techniques
 
-## 🖧 AdminSys & Réseau
+### 🖧 AdminSys & Réseau
 
 <table>
     <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
@@ -63,7 +63,7 @@ Durant une année de stage chez **Atelier Éveil** (Lausanne), j’ai travaillé
 
 </table>
 
-## 🔐 Cryptographie et Sécurité
+### 🔐 Cryptographie et Sécurité
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
@@ -77,7 +77,7 @@ Durant une année de stage chez **Atelier Éveil** (Lausanne), j’ai travaillé
   </tr>
 </table>
 
-## 🧱 Développement
+### 🧱 Développement
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
@@ -94,7 +94,7 @@ Durant une année de stage chez **Atelier Éveil** (Lausanne), j’ai travaillé
 </table>
 
 
-## 🐳 DevOps
+### 🐳 DevOps
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
@@ -106,7 +106,7 @@ Durant une année de stage chez **Atelier Éveil** (Lausanne), j’ai travaillé
   </tr>
 </table>
 
-## 🎮 Graphique & Jeux Vidéo
+### 🎮 Graphique & Jeux Vidéo
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
@@ -128,7 +128,7 @@ Durant une année de stage chez **Atelier Éveil** (Lausanne), j’ai travaillé
   </tr>  
 </table>
 
-## 🤖 IA, Algo & Data
+### 🤖 IA, Algo & Data
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
@@ -167,7 +167,7 @@ Durant une année de stage chez **Atelier Éveil** (Lausanne), j’ai travaillé
 </table>
 
 
-## 🧬 System & Kernel
+### 🧬 System & Kernel
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
@@ -203,7 +203,7 @@ Durant une année de stage chez **Atelier Éveil** (Lausanne), j’ai travaillé
   
 </table>
 
-## 🌐 Web
+### 🌐 Web
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
