@@ -1,6 +1,4 @@
-===[ François-Xavier Coindreau — Dev Junior ]===
-
-# François-Xavier Coindreau — Développeur junior en reconversion
+# François-Xavier Coindreau — Développeur junior
 
 ## 👋 Profil
 
