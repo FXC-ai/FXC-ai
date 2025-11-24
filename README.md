@@ -15,17 +15,17 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
 📫 **Contact :** fx.coindreau@gmail.com  
 💬 *Ouvert aux échanges autour d’un stage, d’un premier poste ou simplement pour discuter de Rust, systèmes et data !*
 
----
+
 
 ## 🛠️ Stack principale
 
 - **Langages :** C, C++, Rust, Python, JavaScript, TypeScript, PHP, SQL  
-- **Backend & Data :** Rust (sqlx, Pola.rs), PostgreSQL, Django  
+- **Backend :** Rust (sqlx, Pola.rs), PostgreSQL, Django  
 - **Frontend & Web :** D3.js, Bootstrap, WordPress  
 - **Systèmes & Réseau :** Linux, bash, HTTP, sockets, Docker  
 - **IA & Data Science :** NumPy, pandas, scikit-learn, Keras, Matplotlib  
 
----
+
 
 ## 🧱 Développement
 
@@ -41,7 +41,7 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
   </tr>
 </table>
 
----
+
 
 ## 🌐 Web
 
@@ -89,7 +89,7 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
 
 </table>
 
----
+
 
 ## 🐳 DevOps
 
@@ -103,7 +103,7 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
   </tr>
 </table>
 
----
+
 
 ## 🧬 System & Kernel
 
@@ -136,7 +136,7 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
 
 </table>
 
----
+
 
 ## 🖧 AdminSys & Réseau
 
@@ -166,7 +166,7 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
 
 </table>
 
----
+
 
 ## 🤖 IA, Algo & Data
 
@@ -210,7 +210,7 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
   </tr>
 </table>
 
----
+
 
 ## 🔐 Cryptographie & Sécurité
 
@@ -226,7 +226,7 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
   </tr>
 </table>
 
----
+
 
 ## 🎮 Graphique & Jeux Vidéo
 
