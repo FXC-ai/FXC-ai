@@ -16,7 +16,7 @@
   </tr>
 
   <tr>
-    <td align="center"><img src="https://freesvg.org/img/provider_internetsvg.png"></td>
+    <td align="center"><img src="https://freesvg.org/img/provider_internetsvg.png" width="40"/></td>
     <td><a href="https://github.com/FXC-ai/NetPractice">NetPractice</a></td>
     <td>Projet 42 : Projet d’initiation aux réseaux permettant d’apprendre le fonctionnement des sous-réseaux, du routage et des règles d’adressage IP à travers une série d’exercices interactifs.</td>
   </tr>
