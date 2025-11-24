@@ -163,8 +163,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="30"/>
     </td>
-    <td><i>À venir...</i></td>
-    <td>Projet de stage : Projet JavaScript/TypeScript ayant pour but de développer une librairie de visualisation D3.js, incluant graphiques interactifs, animations et outils de manipulation de données.</td>
+    <td><a href="https://github.com/FXC-ai/microfrontend_js_lib">Librairie de Graphiques d3.js</a></td>
+    <td>Projet de stage : Projet JavaScript/TypeScript ayant pour but de développer une librairie de visualisation D3.js de graphiques intéractifs</td>
   </tr>
 
   <tr>
