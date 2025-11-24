@@ -94,7 +94,7 @@
   </tr>  
 </table>
 
-## 🤖 IA & Data
+## 🤖 IA, Algo & Data
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
@@ -113,6 +113,14 @@
     <td><a href="https://github.com/FXC-ai/collectionneur_de_ticket/blob/main/MigrosBilles.ipynb">collectionneur_de_ticket</a></td>
     <td>Projet personnel : Projet d'analyse probabiliste en Python visant à explorer le problème du collectionneur de tickets à travers simulations, visualisations statistiques et modélisation.</td>
   </tr>
+
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+      </td>
+      <td><a href="https://github.com/FXC-ai/push_swap">push_swap</a></td>
+      <td>Projet 42 : Projet algorithmique en C consistant à concevoir un programme capable de trier une pile d’entiers en un nombre minimal d’opérations, en implémentant piles, règles de manipulation et stratégies d’optimisation.</td>
+    </tr>
 
   <tr>
     <td align="center">
