@@ -49,7 +49,7 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
     <td><a href="https://github.com/FXC-ai/ft_linear_regression">ft_linear_regression</a></td>
-    <td>⭐Projet 42 : Projet d’introduction au machine learning consistant à implémenter une régression linéaire from scratch en Python et à visualiser l’apprentissage par descente de gradient.</td>
+    <td>🔥Projet 42 : Projet d’introduction au machine learning consistant à implémenter une régression linéaire from scratch en Python et à visualiser l’apprentissage par descente de gradient.</td>
   </tr>
 
   <tr>
