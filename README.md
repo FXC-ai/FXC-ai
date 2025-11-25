@@ -78,7 +78,7 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
 ## 🌐 Web
 
 <table>
-  <tr><th>Tech</th><thu>Lien</th><th>Description</th></tr>
+  <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
 
   <tr>
     <td align="center">
