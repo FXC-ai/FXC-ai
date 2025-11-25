@@ -41,7 +41,39 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
   </tr>
 </table>
 
+## 🤖 IA, Algo & Data
 
+<table>
+  <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+    <td><a href="https://github.com/FXC-ai/ft_linear_regression">ft_linear_regression</a></td>
+    <td>⭐Projet 42 : Projet d’introduction au machine learning consistant à implémenter une régression linéaire from scratch en Python et à visualiser l’apprentissage par descente de gradient.</td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"/>
+    </td>
+    <td><a href="https://github.com/FXC-ai/collectionneur_de_ticket/blob/main/MigrosBilles.ipynb">collectionneur_de_ticket</a></td>
+    <td>❤️Projet personnel : Projet d'analyse probabiliste en Python visant à explorer le problème du collectionneur de tickets à travers simulations, visualisations statistiques et modélisation.</td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40"/>
+    </td>
+    <td><a href="https://github.com/FXC-ai/experimentations_python">experimentations_python</a></td>
+    <td>Projet personnel : Série d’expérimentations Python dédiées à l’apprentissage, regroupant scripts, prototypes IA, tests mathématiques et explorations de librairies scientifiques.</td>
+  </tr>
+</table>
 
 ## 🌐 Web
 
@@ -88,8 +120,6 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
   </tr>
 
 </table>
-
-
 
 ## 🐳 DevOps
 
@@ -165,52 +195,6 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
   </tr>
 
 </table>
-
-
-
-## 🤖 IA, Algo & Data
-
-<table>
-  <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
-
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
-    <td><a href="https://github.com/FXC-ai/ft_linear_regression">ft_linear_regression</a></td>
-    <td>⭐Projet 42 : Projet d’introduction au machine learning consistant à implémenter une régression linéaire from scratch en Python et à visualiser l’apprentissage par descente de gradient.</td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"/>
-    </td>
-    <td><a href="https://github.com/FXC-ai/collectionneur_de_ticket/blob/main/MigrosBilles.ipynb">collectionneur_de_ticket</a></td>
-    <td>❤️Projet personnel : Projet d'analyse probabiliste en Python visant à explorer le problème du collectionneur de tickets à travers simulations, visualisations statistiques et modélisation.</td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-    </td>
-    <td><a href="https://github.com/FXC-ai/push_swap">push_swap</a></td>
-    <td>Projet 42 : Projet algorithmique en C consistant à concevoir un programme capable de trier une pile d’entiers en un nombre minimal d’opérations, en implémentant piles, règles de manipulation et stratégies d’optimisation.</td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40"/>
-    </td>
-    <td><a href="https://github.com/FXC-ai/experimentations_python">experimentations_python</a></td>
-    <td>Projet personnel : Série d’expérimentations Python dédiées à l’apprentissage, regroupant scripts, prototypes IA, tests mathématiques et explorations de librairies scientifiques.</td>
-  </tr>
-</table>
-
-
 
 ## 🔐 Cryptographie & Sécurité
 
