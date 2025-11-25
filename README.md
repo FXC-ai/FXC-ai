@@ -15,8 +15,6 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
 📫 **Contact :** fx.coindreau@gmail.com  
 💬 *Ouvert aux échanges autour d’un stage, d’un premier poste ou simplement pour discuter de Rust, systèmes et data !*
 
-
-
 ## 🛠️ Stack principale
 
 - **Langages :** C, C++, Rust, Python, JavaScript, TypeScript, PHP, SQL  
@@ -24,8 +22,6 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
 - **Frontend & Web :** D3.js, Bootstrap, WordPress  
 - **Systèmes & Réseau :** Linux, bash, HTTP, sockets, Docker  
 - **IA & Data Science :** NumPy, pandas, scikit-learn, Keras, Matplotlib  
-
-
 
 ## 🧱 Développement
 
@@ -118,7 +114,6 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
     <td><a href="http://jeu-vote.fr/">jeu-vote.fr</a></td>
     <td>Projet personnel : Projet web en PHP permettant de créer une plateforme de civic tech dédiée aux élections, incluant interface citoyenne, interactions utilisateurs et affichage dynamique des résultats.</td>
   </tr>
-
 </table>
 
 ## 🐳 DevOps
@@ -132,8 +127,6 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
     <td>Projet 42 : Projet DevOps ayant pour objectif de construire une architecture multi-services en conteneurs Docker, tout en apprenant orchestrations, volumes, réseaux et automatisation système.</td>
   </tr>
 </table>
-
-
 
 ## 🧬 System & Kernel
 
@@ -165,8 +158,6 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
   </tr>
 
 </table>
-
-
 
 ## 🖧 AdminSys & Réseau
 
@@ -209,8 +200,6 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
     <td>Projet de stage : Projet en Rust portant sur la cryptographie appliquée dont l’objectif est d’implémenter des mécanismes de signature et de protection de données pour sécuriser messages et mots de passe.</td>
   </tr>
 </table>
-
-
 
 ## 🎮 Graphique & Jeux Vidéo
 
