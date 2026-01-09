@@ -1,19 +1,18 @@
 # François-Xavier Coindreau — Développeur junior
 
-## 👋 Profil
 
-Je suis **François-Xavier**, développeur passionné en reconversion après une première carrière de dix ans en tant que **pharmacien**.
+Je suis **François-Xavier**, développeur passionné en reconversion après une première carrière en tant que **pharmacien**.
 
-En 2022, j’ai décidé de suivre ma passion pour l’informatique et d’apprendre à construire des systèmes logiciels.  
+En 2022, j’ai décidé de suivre ma passion pour l’informatique.  
 J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commun** en 2024. Aujourd’hui, je poursuis la partie spécialisée et je me forme aux systèmes, au développement backend, au réseau, à l’algorithmie, à la cryptographie et au DevOps.
 
 📊 **Objectif : obtenir la certification RNCP 6 “Application Developer”**
 
-- Projets pédagogiques : 🟩🟩🟩🟨⬜⬜⬜⬜ 3 / 8  
+- Projets pédagogiques : 🟩🟩🟩🟩🟨⬜⬜⬜ 4 / 8  
 - Stages : 🟩⬜ 1 / 2  
 
 📫 **Contact :** fx.coindreau@gmail.com  
-💬 *Ouvert aux échanges autour d’un stage, d’un premier poste ou simplement pour discuter de Rust, systèmes et data !*
+💬 *N'hésitez pas à me contacter*
 
 ## 🛠️ Stack principale
 
@@ -23,10 +22,11 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
 - **Systèmes & Réseau :** Linux, bash, HTTP, sockets, Docker  
 - **IA & Data Science :** NumPy, pandas, scikit-learn, Keras, Matplotlib  
 
-## 🧱 Développement
+## 🧱 Programmation orientée objet
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
+    
   <tr>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40"/>
@@ -35,6 +35,13 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
     <td><a href="https://github.com/FXC-ai/sql_query_engine">sql_query_engine</a></td>
     <td>⭐ Projet de stage : Le module query_engine vous permet d'exécuter dynamiquement des requêtes SQL stockées en base de données avec validation de paramètres typés. Il s'appuie sur sqlx et fonctionne avec une base PostgreSQL.</td>
   </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
+    <td><a href="https://github.com/FXC-ai/webserv">Webserv</a></td>
+    <td>Projet 42 : Projet de programmation avancée en C++ consistant à développer un serveur HTTP conforme au protocole, permettant de comprendre sockets, parsing, CGI et logique réseau serveur.</td>
+  </tr>
+  
 </table>
 
 ## 🤖 IA, Algo & Data
@@ -135,12 +142,6 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
 
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
-    <td><i>ft_linux</i></td>
-    <td>Projet 42 : Projet Linux From Scratch dont le but est de comprendre l’OS en construisant étape par étape sa propre distribution Linux, depuis la toolchain jusqu’au système final.</td>
-  </tr>
-
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
     <td><a href="https://github.com/FXC-ai/malloc/tree/main">malloc</a></td>
     <td>🔥Projet 42 : Projet avancé en C consistant à réimplémenter la fonction malloc en gérant allocation mémoire, fragmentation, gestion des zones et optimisation bas niveau.</td>
   </tr>
@@ -165,9 +166,12 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
 
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
-    <td><a href="https://github.com/FXC-ai/webserv">Webserv</a></td>
-    <td>Projet 42 : Projet de programmation avancée en C++ consistant à développer un serveur HTTP conforme au protocole, permettant de comprendre sockets, parsing, CGI et logique réseau serveur.</td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+    </td>
+    <td><i>ft_linux</i></td>
+    <td>Projet 42 : Projet Linux From Scratch dont le but est de comprendre l’OS en construisant étape par étape sa propre distribution Linux, depuis la toolchain jusqu’au système final.</td>
   </tr>
 
   <tr>
