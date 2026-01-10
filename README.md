@@ -19,6 +19,9 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
 📫 **Contact :** fx.coindreau@gmail.com  
 💬 *N'hésitez pas à me contacter*
 
+## 🛠️ Projets en cours
+
+
 ## 🛠️ Stack principale
 
 - **Langages :** C, C++, Rust, Python, JavaScript, TypeScript, PHP, SQL  
