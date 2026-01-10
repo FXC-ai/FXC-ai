@@ -135,7 +135,7 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
   </tr>
 </table>
 
-## 🧬 System & Kernel
+## 🧬 Programmation Système
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
