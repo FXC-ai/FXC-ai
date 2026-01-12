@@ -172,14 +172,9 @@ J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commu
 
   <tr>
     <td align="center">
-      
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-
-      
-      
     </td>
-    
     <td><i>ft_linux</i></td>
     <td>Projet 42 : Projet Linux From Scratch dont le but est de comprendre l’OS en construisant étape par étape sa propre distribution Linux, depuis la toolchain jusqu’au système final.</td>
   </tr>
