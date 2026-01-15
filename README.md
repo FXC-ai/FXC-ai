@@ -3,17 +3,16 @@
 
 Je suis **François-Xavier**, développeur passionné en reconversion après une première carrière en tant que **pharmacien**.
 
-En 2022, j’ai décidé de suivre ma passion pour l’informatique.  
-J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commun** en 2024. Aujourd’hui, je poursuis la partie spécialisée et je me forme aux systèmes, au développement backend, au réseau, à l’algorithmie, à la cryptographie et au DevOps.
+En 2022, j’ai décidé de suivre ma passion pour l’informatique. J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commun** en 2024. Actuellement, je poursuis les spécialisations.
 
-📊 **Objectif 1 : obtenir la certification RNCP 6 “Développement d'application”**
+📊 **Objectif 1 : obtenir l'équivalence Bachelor (RNCP 6) “Développement d'application”**
 
-- Projets pédagogiques : 🟩🟩🟩🟩🟨⬜⬜⬜⬜ 4 / 8  
+- Projets pédagogiques : 🟩🟩🟩🟩🟨⬜⬜⬜ 4 / 8  
 - Stages : 🟩⬜ 1 / 2
 
-📊 **Objectif 2 : obtenir la certification RNCP 7 “Inteligence Artificielle et Algorithme”**
+📊 **Objectif 2 : obtenir l'équivalence Master (RNCP 7) “Inteligence Artificielle et Algorithme”**
 
-- Projets péfagogiques : 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+- Projets péfagogiques : 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1 / 14
 
 
 📫 **Contact :** fx.coindreau@gmail.com  
