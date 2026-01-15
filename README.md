@@ -175,7 +175,7 @@ En 2022, j’ai décidé de suivre ma passion pour l’informatique. J’ai int�
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Virtualbox_logo.svg" width="40" height="40"/>
     </td>
-    <td><i>ft_linux</i></td>
+    <td><a src="https://github.com/FXC-ai/ft_linux">ft_linux</a></td>
     <td>Projet 42 : Projet Linux From Scratch dont le but est de comprendre l’OS en construisant étape par étape sa propre distribution Linux, depuis la toolchain jusqu’au système final.</td>
   </tr>
 
