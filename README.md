@@ -7,7 +7,7 @@ En 2022, j’ai décidé de suivre ma passion pour l’informatique. J’ai int�
 
 📊 **Objectif 1 : obtenir l'équivalence Bachelor (RNCP 6) “Développement d'application”**
 
-- Projets pédagogiques : 🟩🟩🟩🟩🟨⬜⬜⬜ 4 / 8  
+- Projets pédagogiques : 🟩🟩🟩🟩🟨🟨⬜⬜ 4 / 8  
 - Stages : 🟩⬜ 1 / 2
 
 📊 **Objectif 2 : obtenir l'équivalence Master (RNCP 7) “Inteligence Artificielle et Algorithme”**
