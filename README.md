@@ -5,7 +5,7 @@ Je suis **François-Xavier**, développeur passionné en reconversion après une
 
 En 2022, j’ai décidé de suivre ma passion pour l’informatique. J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commun** en 2024. Actuellement, je poursuis les spécialisations.
 
-📊 **Objectif 1 : obtenir l'équivalence Bachelor (RNCP 6) “Développement d'application”**
+📊 **Objectif : obtenir l'équivalence Bachelor (RNCP 6) “Développement d'application”**
 
 - Projets pédagogiques : 🟩🟩🟩🟩🟩🟨⬜⬜ 5 / 8  
 - Stages : 🟩⬜ 1 / 2
