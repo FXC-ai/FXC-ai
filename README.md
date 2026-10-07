@@ -40,7 +40,8 @@ En 2022, j’ai décidé de suivre ma passion pour l’informatique. J’ai int�
   </tr>
 
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
+    <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/></td>
     <td><a href="https://github.com/FXC-ai/AvajLauncher">AvajLauncher</a></td>
     <td>Projet 42 : Projet de programmation avancée en JAVA consistant à développer un simulateur de communication radio en suivant un diagramme UML.</td>
   </tr>
