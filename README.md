@@ -38,6 +38,13 @@ En 2022, j’ai décidé de suivre ma passion pour l’informatique. J’ai int�
     <td><a href="https://github.com/FXC-ai/webserv">Webserv</a></td>
     <td>Projet 42 : Projet de programmation avancée en C++ consistant à développer un serveur HTTP conforme au protocole, permettant de comprendre sockets, parsing, CGI et logique réseau serveur.</td>
   </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
+    <td><a href="https://github.com/FXC-ai/AvajLauncher">AvajLauncher</a></td>
+    <td>Projet 42 : Projet de programmation avancée en JAVA consistant à développer un simulateur de communication radio en suivant un diagramme UML.</td>
+  </tr>
+
   
 </table>
 
