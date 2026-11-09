@@ -1,6 +1,6 @@
-# François-Xavier Coindreau — Développeur junior
+# <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/960px-42_Logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="26"/> François-Xavier Coindreau — Développeur junior
 
-<img src="https://github.com/FXC-ai/FXC-ai/blob/main/images.png" width="40"/> Étudiant à l’École 42 de Lausanne.
+Étudiant à l’École 42 de Lausanne.
 
 📊 **Objectif : obtenir l'équivalence Bachelor (RNCP 6) “Développement d'applications”**
 
