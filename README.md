@@ -1,9 +1,6 @@
 # François-Xavier Coindreau — Développeur junior
 
-
-Je suis **François-Xavier**, développeur passionné en reconversion après une première carrière en tant que **pharmacien**.
-
-En 2022, j’ai décidé de suivre ma passion pour l’informatique. J’ai intégré l’**École 42 Lausanne**, où j’ai validé le **tronc commun** en 2024. Actuellement, je poursuis les spécialisations.
+Étudiant à l’École 42 de Lausanne.
 
 📊 **Objectif : obtenir l'équivalence Bachelor (RNCP 6) “Développement d'applications”**
 
