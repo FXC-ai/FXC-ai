@@ -7,12 +7,12 @@ En 2022, j’ai décidé de suivre ma passion pour l’informatique. J’ai int�
 
 📊 **Objectif : obtenir l'équivalence Bachelor (RNCP 6) “Développement d'applications”**
 
-- Projets pédagogiques : 🟩🟩🟩🟩🟩🟩🟨⬜⬜ 6 / 9  
+- Projets pédagogiques : 🟩🟩🟩🟩🟩🟩⬜⬜ 6 / 9  
 - Stages : 🟩⬜ 1 / 2
 <!--
 📊 **Objectif 2 : obtenir l'équivalence Master (RNCP 7) “Inteligence Artificielle et Algorithme”**
 
-- Projets pédagogiques : 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1 / 14
+- Projets pédagogiques : 🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1 / 14
 -->
 📫 **Contact :** fx.coindreau@proton.me  
 💬 *N'hésitez pas à me contacter*
