@@ -14,6 +14,8 @@
 📫 **Contact :** fx.coindreau@proton.me  
 💬 *N'hésitez pas à me contacter*
 
+💼 **Mon CV :** <a href="https://fxc-ai.github.io"> Cliquez ici ! </a>
+
 ---
 
 ## 🧱 Programmation orientée objet
