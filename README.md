@@ -53,7 +53,15 @@ En 2022, j’ai décidé de suivre ma passion pour l’informatique. J’ai int�
 
 <table>
   <tr><th>Tech</th><th>Lien</th><th>Description</th></tr>
-
+  <tr>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/485fca98-cec4-48f4-897a-6a79ea45e5d1/laravel.svg" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/2b14b1ce-c5c2-444d-9029-8500b5b378be/react-2.svg" width="40"/>
+    </td>
+    <td><a href="href="https://github.com/FXC-ai/hypertube">Hypertube</td>
+    <td>Projet 42 : Projet web impliquant la création d'un pipeline de streaming vidéo. Le but est de streamer des films libres de droit depuis le protocole torrent.</td>
+  </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
     <td><a href="https://github.com/FXC-ai/ft_linear_regression">ft_linear_regression</a></td>
