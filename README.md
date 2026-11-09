@@ -4,7 +4,7 @@
 
 📊 **Objectif : obtenir l'équivalence Bachelor (RNCP 6) “Développement d'applications”**
 
-- Projets pédagogiques : 🟩🟩🟩🟩🟩🟩⬜⬜ 6 / 9  
+- Projets pédagogiques : 🟩🟩🟩🟩🟩🟩⬜⬜ 7 / 9  
 - Stages : 🟩⬜ 1 / 2
 <!--
 📊 **Objectif 2 : obtenir l'équivalence Master (RNCP 7) “Inteligence Artificielle et Algorithme”**
