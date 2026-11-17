@@ -15,7 +15,6 @@ Student at 42 Lausanne.
 
 **My online CV : [Visit Publec ↗](https://publec.ch)**
 
-## Technical skills
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="26" height="26" />
