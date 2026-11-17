@@ -13,7 +13,7 @@ Student at 42 Lausanne.
 - School projects: 🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1 / 14
 -->
 
-**[Visit Publec ↗](https://publec.ch)**
+**My online CV : [Visit Publec ↗](https://publec.ch)**
 
 ## Technical skills
 
@@ -46,12 +46,12 @@ Student at 42 Lausanne.
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="WordPress" title="WordPress" width="26" height="26" />
 </p>
 
-## Currently working on
+## Currently working on ...
 
 - **[DSLR](https://github.com/FXC-ai/DSLR)** · 42 data science project on logistic regression.
 - **[Jeu Vote 2027](https://github.com/FXC-ai/jeu-vote-2027)** · A personal civic tech project where users rate and compare policy proposals from candidates in the 2027 French presidential election.
 
-## Selected 42 projects
+## Some projects
 
 | Project | What it does |
 | :-- | :-- |
