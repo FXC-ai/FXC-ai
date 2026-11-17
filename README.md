@@ -49,16 +49,3 @@ Student at 42 Lausanne.
 
 - **[DSLR](https://github.com/FXC-ai/DSLR)** · 42 data science project on logistic regression.
 - **[Jeu Vote 2027](https://github.com/FXC-ai/jeu-vote-2027)** · A personal civic tech project where users rate and compare policy proposals from candidates in the 2027 French presidential election.
-
-## Some projects
-
-| Project | What it does |
-| :-- | :-- |
-| [**Inception of Things**](https://github.com/FXC-ai/InceptionOfThings#readme) | Sets up Kubernetes clusters and automates application deployment with Argo CD. |
-| [**Sticker Collector**](https://github.com/FXC-ai/collectionneur_de_ticket/blob/main/MigrosBilles.ipynb) | Uses Python simulations to estimate how many draws it takes to complete a collection. |
-| [**ft_linear_regression**](https://github.com/FXC-ai/ft_linear_regression#readme) | Predicts car prices from mileage with a Python implementation of gradient descent. |
-| [**ft_linux**](https://github.com/FXC-ai/ft_linux#readme) | Builds a Linux system from source and documents the process step by step. |
-| [**ft_malloc**](https://github.com/FXC-ai/malloc#readme) | Implements `malloc`, `free`, and `realloc` in C. |
-| [**Polatouche**](https://www.polatouche.org) | A WordPress website for a woodworking business. |
-
-[Browse all repositories ↗](https://github.com/FXC-ai?tab=repositories)
