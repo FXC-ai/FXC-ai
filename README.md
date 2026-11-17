@@ -13,7 +13,8 @@ Student at 42 Lausanne.
 - School projects: 🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1 / 14
 -->
 
-**My online CV : [Visit Publec ↗](https://publec.ch)**
+**My online CV : [Visit](https://publec.ch)**
+**My Linkedin Profile : [Visit](https://www.linkedin.com/in/fxcoindreau/)**
 
 
 <p>
