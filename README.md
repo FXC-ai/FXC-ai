@@ -31,22 +31,19 @@ Student at 42 Lausanne.
   <img src="https://cdn.worldvectorlogo.com/logos/485fca98-cec4-48f4-897a-6a79ea45e5d1/laravel.svg" alt="Laravel" title="Laravel" width="26" height="26" />
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" title="Django" width="26" height="26" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="26" height="26" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="WordPress" title="WordPress" width="26" height="26" />
-  <br />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" title="D3.js" width="26" height="26" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" title="Jupyter" width="26" height="26" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" title="NumPy" width="26" height="26" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" width="26" height="26" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" title="Matplotlib" width="26" height="26" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" title="scikit-learn" width="26" height="26" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" title="Keras" width="26" height="26" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="26" height="26" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="26" height="26" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="26" height="26" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="26" height="26" />
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kubernetes/icon/color/kubernetes-icon-color.png" alt="Kubernetes" title="Kubernetes" width="26" height="26" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Virtualbox_logo.svg" alt="VirtualBox" title="VirtualBox" width="26" height="26" />
-  <img src="https://freesvg.org/img/provider_internetsvg.png" alt="Networking" title="Networking" width="26" height="26" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="WordPress" title="WordPress" width="26" height="26" />
 </p>
 
 ## Currently working on
