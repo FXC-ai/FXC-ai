@@ -55,10 +55,11 @@ Student at 42 Lausanne.
 
 | Project | What it does |
 | :-- | :-- |
-| [**Hypertube**](https://github.com/FXC-ai/hypertube#readme) | Streams royalty-free videos with a Laravel and React app, a BitTorrent client, and FFmpeg. |
-| [**Webserv**](https://github.com/FXC-ai/webserv#readme) | Builds an HTTP server from scratch in C++, with notes on sockets, HTTP parsing, and CGI. |
 | [**Inception of Things**](https://github.com/FXC-ai/InceptionOfThings#readme) | Sets up Kubernetes clusters and automates application deployment with Argo CD. |
+| [**Sticker Collector**](https://github.com/FXC-ai/collectionneur_de_ticket/blob/main/MigrosBilles.ipynb) | Uses Python simulations to estimate how many draws it takes to complete a collection. |
 | [**ft_linear_regression**](https://github.com/FXC-ai/ft_linear_regression#readme) | Predicts car prices from mileage with a Python implementation of gradient descent. |
-| [**fract’ol**](https://github.com/FXC-ai/fractol#readme) | Renders interactive fractals in C, with a screenshot gallery in the README. |
+| [**ft_linux**](https://github.com/FXC-ai/ft_linux#readme) | Builds a Linux system from source and documents the process step by step. |
+| [**ft_malloc**](https://github.com/FXC-ai/malloc#readme) | Implements `malloc`, `free`, and `realloc` in C. |
+| [**Polatouche**](https://www.polatouche.org) | A WordPress website for a woodworking business. |
 
 [Browse all repositories ↗](https://github.com/FXC-ai?tab=repositories)
